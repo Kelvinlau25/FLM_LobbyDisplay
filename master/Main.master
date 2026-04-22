@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" CodeFile="Main.master.vb" Inherits="master_Main" %>
+﻿<%@ Master Language="C#" CodeFile="Main.master.cs" Inherits="master_Main" %>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 

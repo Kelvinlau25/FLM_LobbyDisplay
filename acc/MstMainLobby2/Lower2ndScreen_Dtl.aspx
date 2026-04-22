@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" MasterPageFile="~/master/Main.master" AutoEventWireup="false" CodeFile="Lower2ndScreen_Dtl.aspx.vb" Inherits="acc_MstMainLobby2_Lower2ndScreen_Dtl" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/master/Main.master" AutoEventWireup="true" CodeFile="Lower2ndScreen_Dtl.aspx.cs" Inherits="acc_MstMainLobby2_Lower2ndScreen_Dtl" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 
@@ -141,7 +141,7 @@
     </asp:Panel> 
    
      <asp:Label ID="lblerror" runat ="server" Text ="No Records Found" Visible ="false"  />
-   <asp:Button ID="btnsumit" runat="server" Text="Submit" ValidationGroup="Group1"/>
+   <asp:Button ID="btnsumit" runat="server" Text="Submit" ValidationGroup="Group1" OnClick="btnSubmit_Click"/>
   <asp:Button ID="btnback" runat="server" PostBackUrl ="~/acc/MstMainLobby2/MM_VerticalScreenFull.aspx" Text="Back" CausesValidation ="False"  />
   
   

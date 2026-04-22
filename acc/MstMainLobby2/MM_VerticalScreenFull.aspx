@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" MasterPageFile="~/master/Main.master" AutoEventWireup="false" CodeFile="MM_VerticalScreenFull.aspx.vb" Inherits="acc_MstMainLobby2_MM_VerticalScreenFull" title="Master Maintenance Screen Video" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/master/Main.master" AutoEventWireup="true" CodeFile="MM_VerticalScreenFull.aspx.cs" Inherits="acc_MstMainLobby2_MM_VerticalScreenFull" title="Master Maintenance Screen Video" %>
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
@@ -469,11 +469,11 @@
        <hr /><br />
        
     <asp:Label ID="Label4" runat="server" Text="Scrolling Text" Font-Bold="True"></asp:Label>&nbsp;<asp:Label ID="Label5" runat="server" Text=":"></asp:Label>
-    &nbsp;<asp:TextBox ID="txtFooter" runat="server" Width="90%" TextMode="MultiLine"></asp:TextBox>&nbsp;<asp:Button ID="btnFooter" runat="server" style="height: 26px;vertical-align: top;float: right;" Text="Save" />
+    &nbsp;<asp:TextBox ID="txtFooter" runat="server" Width="90%" TextMode="MultiLine"></asp:TextBox>&nbsp;<asp:Button ID="btnFooter" runat="server" style="height: 26px;vertical-align: top;float: right;" Text="Save" OnClick="btnFooter_Click" />
     
     
 
-    <asp:Button ID="Button1" runat="server" Text="Display at Lobby" style="display:none;"/>
+    <asp:Button ID="Button1" runat="server" Text="Display at Lobby" style="display:none;" OnClick="Button1_Click"/>
     
     
     

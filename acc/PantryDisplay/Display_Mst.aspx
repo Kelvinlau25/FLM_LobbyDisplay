@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" MasterPageFile="~/master/Main.master" AutoEventWireup="false" CodeFile="Display_Mst.aspx.vb" Inherits="Acc_TVDisplay_Mst" title="Signage Display" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/master/Main.master" AutoEventWireup="true" CodeFile="Display_Mst.aspx.cs" Inherits="Acc_TVDisplay_Mst" title="Signage Display" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <style type="text/css">
@@ -33,11 +33,11 @@
              <table>   
             <tr>
             <td class="style1">         
-                <asp:Button ID="BtnDisp1" runat="server" Text="Display 1" Font-Bold="True" 
+                <asp:Button ID="BtnDisp1" runat="server" Text="Display 1" Font-Bold="True" OnClick="BtDisp1_Click" 
                     Font-Size="Medium" Height="50px" Width="130px" />
             </td>
             <td class="style1">   
-             <asp:Button ID="BtnDisp2" runat="server" Text="Display 2" Font-Bold="True" 
+             <asp:Button ID="BtnDisp2" runat="server" Text="Display 2" Font-Bold="True" OnClick="BtnDisp2_Click" 
                     Font-Size="Medium" Height="50px" Width="130px" />
             </td>
             <td class="style1">   
