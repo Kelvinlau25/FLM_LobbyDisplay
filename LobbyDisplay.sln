@@ -25,13 +25,13 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FLM_Display", ".", "{B7D965
 		SlnRelativePath = "..\FLM_Display\"
 	EndProjectSection
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library.Oracle", "Library\Library.Oracle\Library.Oracle.vbproj", "{ACDA83BF-22B1-4942-A04B-FBB8A2A822DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Oracle", "Library\Library.Oracle\Library.Oracle.csproj", "{ACDA83BF-22B1-4942-A04B-FBB8A2A822DB}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library.Root", "Library\Library.Root\Library.Root.vbproj", "{4695AB18-FF22-4CEF-98C0-C413082AA932}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Root", "Library\Library.Root\Library.Root.csproj", "{4695AB18-FF22-4CEF-98C0-C413082AA932}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library.Common", "Library\Library.Common\Library.Common.vbproj", "{1322656D-2FAA-4F49-A511-3696DFC1D29C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Common", "Library\Library.Common\Library.Common.csproj", "{1322656D-2FAA-4F49-A511-3696DFC1D29C}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library.Control.Base", "Library\Library.Control.Base\Library.Control.Base.vbproj", "{D4618A4B-AAEE-415B-AF2C-0874920E87C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Control.Base", "Library\Library.Control.Base\Library.Control.Base.csproj", "{D4618A4B-AAEE-415B-AF2C-0874920E87C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
