@@ -1,0 +1,968 @@
+   .parent{
+    position:relative;
+    z-index:0;
+}
+
+.inner1{
+    position:absolute;
+    z-index:1;
+    top:130px;
+    left:38px;
+}
+
+.inner2{
+    position:absolute;
+    z-index:1;
+    top:130px;
+    left:90px;
+}
+
+.inner3{
+    position:absolute;
+    z-index:1;
+    top:130px;
+    left:145px;
+}
+
+.inner4{
+    position:absolute;
+    z-index:1;
+    top:320px;
+    left:50px;
+}
+.inner5{
+    position:absolute;
+    z-index:1;
+    top:500px;
+    left:70px;
+}
+
+.inner6{
+    position:absolute;
+    z-index:1;
+    top:8px;
+    left:400px;
+}
+
+.inner7{
+    position:absolute;
+    z-index:1;
+    top:8px;
+    left:598px;
+}
+
+.inner8{
+    position:absolute;
+    z-index:1;
+    top:8px;
+    left:670px;
+}
+.inner9{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:225px;
+}
+
+.inner10{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:275px;
+}
+.inner11{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:325px;
+}
+
+.inner12{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:400px;
+}
+
+.inner13{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:450px;
+}
+
+.inner14{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:502px;
+}
+.inner15{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:552px;
+}
+
+.inner16{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:600px;
+}
+
+.inner17{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:670px;
+}
+
+.inner18{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:722px;
+}
+.inner19{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:772px;
+}
+
+.inner20{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:822px;
+}
+.inner21{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:872px;
+}
+
+.inner22{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:923px;
+}
+
+.inner23{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:970px;
+}
+
+.inner24{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1050px;
+}
+.inner25{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1100px;
+}
+
+.inner26{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1148px;
+}
+
+.inner27{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1198px;
+}
+
+.inner28{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1245px;
+}
+.inner29{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1320px;
+}
+
+.inner30{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1370px;
+}
+.inner31{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1420px;
+}
+
+.inner32{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1470px;
+}
+
+.inner33{
+    position:absolute;
+    z-index:1;
+    top:230px;
+    left:1520px;
+}
+
+.inner34{
+    position:absolute;
+    z-index:1;
+    top:90px;
+    left:1620px;
+}
+.inner35{
+    position:absolute;
+    z-index:1;
+    top:90px;
+    left:1678px;
+}
+
+.inner36{
+    position:absolute;
+    z-index:1;
+    top:90px;
+    left:1735px;
+}
+
+.inner37{
+    position:absolute;
+    z-index:1;
+    top:210px;
+    left:1620px;
+}
+
+.inner38{
+    position:absolute;
+    z-index:1;
+    top:210px;
+    left:1678px;
+}
+.inner39{
+    position:absolute;
+    z-index:1;
+    top:350px;
+    left:1620px;
+}
+
+.inner40{
+    position:absolute;
+    z-index:1;
+    top:350px;
+    left:1678px;
+}
+.inner41{
+    position:absolute;
+    z-index:1;
+    top:350px;
+    left:1735px;
+}
+
+.inner42{
+    position:absolute;
+    z-index:1;
+    top:350px;
+    left:1795px;
+}
+
+.inner43{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:353px;
+}
+
+.inner44{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:408px;
+}
+.inner45{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:460px;
+}
+
+.inner46{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:515px;
+}
+
+.inner47{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:570px;
+}
+
+.inner48{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:623px;
+}
+.inner49{
+    position:absolute;
+    z-index:1;
+    top:890px;
+    left:353px;
+}
+
+.inner50{
+    position:absolute;
+    z-index:1;
+    top:890px;
+    left:420px;
+}
+.inner51{
+    position:absolute;
+    z-index:1;
+    top:890px;
+    left:508px;
+}
+
+.inner52{
+    position:absolute;
+    z-index:1;
+    top:890px;
+    left:575px;
+}
+
+.inner53{
+    position:absolute;
+    z-index:1;
+    top:890px;
+    left:663px;
+}
+
+.inner54{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:765px;
+}
+.inner55{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:828px;
+}
+
+.inner56{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:890px;
+}
+
+.inner57{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:950px;
+}
+
+.inner58{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1010px;
+}
+.inner59{
+    position:absolute;
+    z-index:1;
+    top:805px;
+    left:1070px;
+}
+
+.inner60{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1188px;
+}
+.inner61{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1240px;
+}
+
+.inner62{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1295px;
+}
+
+.inner63{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1348px;
+}
+
+.inner64{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1403px;
+}
+.inner65{
+    position:absolute;
+    z-index:1;
+    top:660px;
+    left:1458px;
+}
+
+.inner66{
+    position:absolute;
+    z-index:1;
+    top:635px;
+    left:1610px;
+}
+
+.inner67{
+    position:absolute;
+    z-index:1;
+    top:685px;
+    left:1610px;
+}
+
+.inner68{
+    position:absolute;
+    z-index:1;
+    top:730px;
+    left:1610px;
+}
+.inner69{
+    position:absolute;
+    z-index:1;
+    top:781px;
+    left:1610px;
+}
+.inner70{
+    position:absolute;
+    z-index:1;
+    top:870px;
+    left:1645px;
+}
+
+.inner71{
+    position:absolute;
+    z-index:1;
+    top:870px;
+    left:1705px;
+}
+
+
+.AJLinner1{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:258px;
+}
+.AJLinner2{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:310px;
+}
+.AJLinner3{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:362px;
+}
+.AJLinner4{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:455px;
+}
+.AJLinner5{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:508px;
+}
+.AJLinner6{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:560px;
+}
+.AJLinner7{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:613px;
+}
+.AJLinner8{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:665px;
+}
+.AJLinner9{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:755px;
+}
+.AJLinner10{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:810px;
+}
+.AJLinner11{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:860px;
+}
+.AJLinner12{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:910px;
+}
+.AJLinner13{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:965px;
+}
+.AJLinner14{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1015px;
+}
+.AJLinner15{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1068px;
+}
+.AJLinner16{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1155px;
+}
+.AJLinner17{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1208px;
+}
+.AJLinner18{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1260px;
+}
+.AJLinner19{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1310px;
+}
+.AJLinner20{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1363px;
+}
+.AJLinner21{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1435px;
+}
+.AJLinner22{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1490px;
+}
+.AJLinner23{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1540px;
+}
+.AJLinner24{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1595px;
+}
+.AJLinner25{
+    position:absolute;
+    z-index:1;
+    top:62px;
+    left:1650px;
+}
+.AJLinner26{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:250px;
+}
+
+.AJLinner27{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:308px;
+}
+.AJLinner28{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:363px;
+}
+.AJLinner29{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:483px;
+}
+.AJLinner30{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:548px;
+}
+.AJLinner31{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:614px;
+}
+.AJLinner32{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:675px;
+}
+.AJLinner33{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:740px;
+}
+.AJLinner34{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:803px;
+}
+.AJLinner35{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:900px;
+}
+.AJLinner36{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:955px;
+}
+.AJLinner37{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:1013px;
+}
+.AJLinner38{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:1070px;
+}
+.AJLinner39{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:1125px;
+}
+.AJLinner40{
+    position:absolute;
+    z-index:1;
+    top:268px;
+    left:1180px;
+}
+
+.AJLinner1E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:255px;
+}
+.AJLinner2E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:308px;
+}
+.AJLinner3E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:360px;
+}
+.AJLinner4E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:455px;
+}
+.AJLinner5E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:507px;
+}
+.AJLinner6E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:558px;
+}
+.AJLinner7E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:613px;
+}
+.AJLinner8E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:663px;
+}
+.AJLinner9E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:755px;
+}
+.AJLinner10E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:808px;
+}
+.AJLinner11E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:858px;
+}
+.AJLinner12E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:910px;
+}
+.AJLinner13E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:965px;
+}
+.AJLinner14E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1013px;
+}
+.AJLinner15E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1066px;
+}
+.AJLinner16E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1155px;
+}
+.AJLinner17E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1206px;
+}
+.AJLinner18E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1258px;
+}
+.AJLinner19E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1310px;
+}
+.AJLinner20E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1362px;
+}
+.AJLinner21E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1433px;
+}
+.AJLinner22E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1490px;
+}
+.AJLinner23E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1538px;
+}
+.AJLinner24E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1593px;
+}
+.AJLinner25E{
+    position:absolute;
+    z-index:1;
+    top:100px;
+    left:1648px;
+}
+
+
+.AJLinner26E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:248px;
+}
+
+.AJLinner27E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:305px;
+}
+.AJLinner28E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:360px;
+}
+.AJLinner29E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:482px;
+}
+.AJLinner30E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:546px;
+}
+.AJLinner31E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:612px;
+}
+.AJLinner32E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:673px;
+}
+.AJLinner33E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:738px;
+}
+.AJLinner34E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:801px;
+}
+.AJLinner35E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:900px;
+}
+.AJLinner36E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:953px;
+}
+.AJLinner37E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:1010px;
+}
+.AJLinner38E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:1068px;
+}
+.AJLinner39E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:1123px;
+}
+.AJLinner40E{
+    position:absolute;
+    z-index:1;
+    top:305px;
+    left:1180px;
+}
+

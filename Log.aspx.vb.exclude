@@ -1,0 +1,16 @@
+﻿
+Partial Class Log
+    Inherits Control.LogBase
+
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        divDesc.InnerHtml = "<b>History of " & MyBase.NormalTitle & "</b> - <br/>" & MyBase.KeyDesc
+    End Sub
+
+    Protected Overrides Sub BindData()
+        _list = Library.Database.DMS_KPI.BLL.Log.GetLogList(MyBase.LogTable, MyBase.Key, MyBase.PageNo, MyBase.SortDesc)
+        grdResult.DataSource = _list.Data
+        grdResult.DataBind()
+
+        UCFooter.TotalRecords = _list.TotalRow
+    End Sub
+End Class

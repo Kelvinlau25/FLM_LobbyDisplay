@@ -1,0 +1,53 @@
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="Pages_Article_Default" %>
+
+<%@ Register Assembly="Library.Root" Namespace="Library.Root.LacalizeLabel" TagPrefix="cc1" %>
+
+<%@ Register Src="~/App_Module/ArticleDetail.ascx" TagName="Article" TagPrefix="uc2" %>
+<%@ Register Src="~/App_Module/ArticleComment.ascx" TagName="ArticleComment" TagPrefix="uc2" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Article</title>
+    <style type="text/css" media="print">
+        /*****   Styles for print   ******/
+        @media print {
+            * {display:none;}
+        }
+        * {display:none;}
+    </style>
+    <link rel="stylesheet" type="text/css" href="<%= ResolveUrl("~/css/base.css") %>" />
+    <link rel="stylesheet" type="text/css" href="<%= ResolveUrl("~/css/custom-article.css") %>" />
+    <link rel="stylesheet" type="text/css" href="<%= ResolveUrl("~/css/custom-comment.css") %>" />
+    
+    <!-- On Screen KeyBoard -->
+    <link type="text/css" href="<%=ResolveUrl("~/css/VirtualKeyboard.css") %>" rel="stylesheet" />
+    <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/jquery-1.9.1.js") %>"></script>
+    <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/jquery-ui-1.10.3.custom.min.js") %>"></script>
+    <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/jquery.virtualkeyboard.extension-mobile.js") %>"></script>
+    <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/jquery.virtualkeyboard.js") %>"></script>
+    
+    <style type="text/css">
+        .ui-keyboard
+        {
+            background-color: #cfcfcf;
+        }
+    </style>
+    <!-- On Screen KeyBoard -->
+    
+    <!--Get Cookies -->
+      <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/jquery.cookie.js") %>"></script>
+    <!--Get Cookies -->
+</head>
+<body style="background-color:White;">
+    <form id="form1" runat="server">
+        <uc2:Article ID="UCArticle" runat="server" />
+        <uc2:ArticleComment ID="UCArticleComment" runat="server" />
+    </form>
+    
+    <!-- Print Disable -->
+    <script language="Javascript" type="text/javascript" src="<%= ResolveUrl("~/js/PrintDisable.js") %>"></script>
+</body>
+</html>
