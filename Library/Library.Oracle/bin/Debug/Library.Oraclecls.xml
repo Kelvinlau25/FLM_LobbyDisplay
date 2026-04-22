@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.Oraclecls</name>
+    </assembly>
+    <members>
+        <member name="M:Library.Oraclecls.Connection.Commit">
+            <summary>
+            Commit all the transaction
+            </summary>
+        </member>
+        <member name="M:Library.Oraclecls.Connection.RollBack">
+            <summary>
+            Rollback all the transaction
+            </summary>
+        </member>
+    </members>
+</doc>

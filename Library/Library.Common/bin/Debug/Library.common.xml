@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.common</name>
+    </assembly>
+    <members>
+        <member name="P:Library.common.Generator.Data">
+            <summary>
+            Data Source
+            </summary>
+        </member>
+        <member name="P:Library.common.Generator.Setting">
+            <summary>
+            Field Setting Collection
+            </summary>
+        </member>
+        <member name="M:Library.common.Generator.#ctor(System.Data.DataTable)">
+            <summary>
+            initial the data
+            </summary>
+        </member>
+        <member name="M:Library.common.Generator.ToString">
+            <summary>
+            Generate the HTML
+            </summary>
+        </member>
+    </members>
+</doc>

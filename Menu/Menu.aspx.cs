@@ -52,7 +52,7 @@ public partial class Style2_Menu : System.Web.UI.Page
             Response.Redirect("~/SessionExpired.aspx?ReturnURL=" + Server.UrlEncode(Request.RawUrl));
         }
 
-        if (Session["system"] == null || (string)Session["system"] == "0")
+        if (Session["system"] == null || (int)Session["system"] == 0)
         {
             systemCheck(Request.QueryString[ACL.Control.URL.URLSYSTEMNAME]);
         }
@@ -65,7 +65,7 @@ public partial class Style2_Menu : System.Web.UI.Page
             ahrefhome.HRef = ConfigurationManager.AppSettings["MISHome"];
             try
             {
-                ACL.Object.User userobj = ACL.OracleClass.User.UserInfo(ConfigurationManager.ConnectionStrings["ORCL_ACL"].ConnectionString, Convert.ToInt32(Session["gstrUserID"]));
+                ACL.Object.User userobj = ACL.OracleClass.User.UserInfo(ConfigurationManager.ConnectionStrings["ORCL_ACL"].ConnectionString, Session["gstrUserID"].ToString());
                 Session["gstrUserID"] = userobj.UserID;
                 Session["gettemp"] = userobj.EmployeeName;
                 Session["gstrUsername"] = userobj.Username;

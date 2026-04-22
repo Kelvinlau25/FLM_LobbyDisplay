@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.Root</name>
+    </assembly>
+    <members>
+        <member name="T:Library.Root.Control.Base">
+            <summary>
+            Handler All Page Common Function (see VB original for the full numbered list of features).
+            </summary>
+        </member>
+        <member name="M:Library.Root.Control.Base.BindKey">
+            <summary>
+            Retrieve the Key from View State or URL
+            </summary>
+        </member>
+        <member name="M:Library.Root.Control.Base.BindSort">
+            <summary>
+            Retrieve the Sort Field and Sort Direction
+            </summary>
+        </member>
+        <member name="M:Library.Root.Control.Base.BindAction">
+            <summary>
+            Retrieve the Action From URL
+            </summary>
+        </member>
+        <member name="M:Library.Root.Control.Convertion`1.Serializer(System.Collections.Generic.List{`0})">
+            <summary>
+            Convert List of T into String Format
+            </summary>
+        </member>
+        <member name="M:Library.Root.Control.Convertion`1.Deserializer(System.String)">
+            <summary>
+            Convert string into List of T
+            </summary>
+        </member>
+        <member name="T:Library.Root.Other.GenericCollection`1">
+            <summary>
+            Generic Collection
+            ----------------------------------------------
+            C.C.Yeon      25 April 2011    initial version
+            </summary>
+        </member>
+        <member name="T:Library.Root.Other.TotalCollection`1">
+            <summary>
+            Generic Total Collection handler when the data was need total Calculation
+            -------------------------------------------------------------------------
+            C.C.Yeon      19 May 2011    initial version
+            </summary>
+        </member>
+        <member name="T:Library.Root.Other.BusinessLogicBase">
+            <summary>
+            Handler the Common Business Logic Function
+            </summary>
+        </member>
+        <member name="P:Library.Root.Other.BusinessLogicBase.MaxQuantityPerPage">
+            <summary>
+            Max Quantity per Page
+            </summary>
+        </member>
+        <member name="M:Library.Root.Other.BusinessLogicBase.FromRowNo(System.Int32)">
+            <summary>
+            Generate and Caculate the Number
+            </summary>
+        </member>
+        <member name="M:Library.Root.Other.BusinessLogicBase.ToRowNo(System.Int32)">
+            <summary>
+            Generate and Caculate the Number
+            </summary>
+        </member>
+        <member name="T:Library.Root.Object.Base">
+            <summary>
+            Must Inheritance Common Object
+            </summary>
+        </member>
+        <member name="T:Library.Root.Object.Binder">
+            <summary>
+            Object of the List item ( Contain Text and Value )
+            </summary>
+        </member>
+    </members>
+</doc>

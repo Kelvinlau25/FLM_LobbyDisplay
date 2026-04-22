@@ -42,7 +42,7 @@ public partial class _Default : System.Web.UI.Page
                 userobj = temp.validateWithRetrieveUser(txtusername.Text.Trim(), txtpassword.Text.Trim(), Convert.ToInt32(Session["system"]));
             }
 
-            if (userobj.UserID > -1)
+            if (Convert.ToInt32(userobj.UserID) > -1)
             {
                 Session["gstrUserID"] = userobj.UserID;
                 Session["gettemp"] = userobj.EmployeeName;
@@ -71,7 +71,7 @@ public partial class _Default : System.Web.UI.Page
         //Validate the system
         Session["system"] = 0;
         Session["system"] = ACL.OracleClass.Resource.RetrieveApplicationIDByName(ConfigurationManager.ConnectionStrings["ORCL_ACL"].ConnectionString, ConfigurationManager.AppSettings["SystemName"]);
-        if ((int)Session["system"] == 0)
+        if (Session["system"] == null || (int)Session["system"] == 0)
         {
             ClientScript.RegisterStartupScript(this.GetType(), "Alert", "alert('Invalid System');", true);
             return;

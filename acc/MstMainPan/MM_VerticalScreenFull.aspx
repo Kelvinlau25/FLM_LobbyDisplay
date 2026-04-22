@@ -14,9 +14,9 @@
 	<link rel="stylesheet" href ="../../css/colorbox.css" />
 
     <script type="text/javascript" >
-			    $(document).ready(function(){
-				    $(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
-			    });
+        $(document).ready(function () {
+            $(".youtube").colorbox({ iframe: true, innerWidth: 640, innerHeight: 390 });
+        });
     </script>
     
     <style type="text/css">
@@ -131,14 +131,14 @@
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="Start Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_START").Substring(0, Eval("PERIOD_START").Length - 3)%>
+                                <%#Eval("PERIOD_START").ToString().Substring(0, Eval("PERIOD_START").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                             
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="End Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_END").Substring(0, Eval("PERIOD_END").Length - 3)%>
+                                <%#Eval("PERIOD_END").ToString().Substring(0, Eval("PERIOD_END").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                         
@@ -276,14 +276,14 @@
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="Start Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_START").Substring(0, Eval("PERIOD_START").Length - 3)%>
+                                <%#Eval("PERIOD_START").ToString().Substring(0, Eval("PERIOD_START").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                             
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="End Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_END").Substring(0, Eval("PERIOD_END").Length - 3)%>
+                                <%#Eval("PERIOD_END").ToString().Substring(0, Eval("PERIOD_END").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                         
@@ -422,14 +422,14 @@
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="Start Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_START").Substring(0, Eval("PERIOD_START").Length - 3)%>
+                                <%#Eval("PERIOD_START").ToString().Substring(0, Eval("PERIOD_START").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                             
                             <asp:TemplateField HeaderStyle-Width="5%" HeaderText="End Time" HeaderStyle-HorizontalAlign="Left">
                                 <ItemStyle  HorizontalAlign="Center"></ItemStyle>
                                 <ItemTemplate>
-                                <%#Eval("PERIOD_END").Substring(0, Eval("PERIOD_END").Length - 3)%>
+                                <%#Eval("PERIOD_END").ToString().Substring(0, Eval("PERIOD_END").ToString().Length - 3)%>
                                  </ItemTemplate>
                             </asp:TemplateField>
                         
@@ -478,4 +478,3 @@
     
     
 </asp:Content>
-

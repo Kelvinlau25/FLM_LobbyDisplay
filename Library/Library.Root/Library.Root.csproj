@@ -53,10 +53,14 @@
       <DependentUpon>LocalLabel.cs</DependentUpon>
     </Compile>
     <Compile Include="Component\LocalLabel.cs" />
-    <Compile Include="Control\Base.cs" />
+    <Compile Include="Control\Base.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Control\Convertion.cs" />
     <Compile Include="Control\GenericCollection.cs" />
-    <Compile Include="Control\LogBase.cs" />
+    <Compile Include="Control\LogBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Control\MessageCenter.cs" />
     <Compile Include="Object\Base.cs" />
     <Compile Include="Object\Binder.cs" />

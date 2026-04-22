@@ -1,5 +1,4 @@
 using System;
-using Microsoft.VisualBasic;
 
 public partial class acc_PopUp_ImgVideoPreview : System.Web.UI.Page
 {
@@ -9,13 +8,13 @@ public partial class acc_PopUp_ImgVideoPreview : System.Web.UI.Page
     {
         if (Request.QueryString["id"].ToString().Length > 5)
         {
-            string ext = Strings.Mid(Request.QueryString["id"].ToString(), Request.QueryString["id"].ToString().Length - 3);
+            string queryId = Request.QueryString["id"].ToString();
+            
+            string ext = queryId.Substring(queryId.Length - 3);
+            ext = ext.ToLower().Substring(0, ext.Length - 1);
 
-            ext = Strings.Mid(ext.ToLower(), 1, ext.ToLower().Length - 1);
-
-            string file = Strings.Mid(Request.QueryString["id"].ToString(), 2);
-
-            file = Strings.Mid(file, 1, file.Length - 1);
+            string file = queryId.Substring(1);
+            file = file.Substring(0, file.Length - 1);
 
             if (ext.Equals("mp4") || ext.Equals("wmv"))
             {

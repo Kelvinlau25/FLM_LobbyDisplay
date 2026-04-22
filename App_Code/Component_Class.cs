@@ -1,6 +1,5 @@
 using System;
 using System.Web;
-using Microsoft.VisualBasic;
 
 public class Component_Class
 {
@@ -21,22 +20,22 @@ public class Component_Class
             {
                 if (HttpContext.Current.Request.IsLocal)
                 {
-                    d = Strings.Mid(value, 1, 2) + spliter_format + Strings.Mid(value, 4, 2) + spliter_format + Strings.Mid(value, 7, 4);
+                    d = value.Substring(0, 2) + spliter_format + value.Substring(3, 2) + spliter_format + value.Substring(6, 4);
                 }
                 else
                 {
-                    d = Strings.Mid(value, 4, 2) + spliter_format + Strings.Mid(value, 1, 2) + spliter_format + Strings.Mid(value, 7, 4);
+                    d = value.Substring(3, 2) + spliter_format + value.Substring(0, 2) + spliter_format + value.Substring(6, 4);
                 }
             }
             else
             {
                 if (HttpContext.Current.Request.IsLocal)
                 {
-                    d = Strings.Mid(value, 1, 2) + spliter_format + Strings.Mid(value, 4, 2) + spliter_format + Strings.Mid(value, 7);
+                    d = value.Substring(0, 2) + spliter_format + value.Substring(3, 2) + spliter_format + value.Substring(6);
                 }
                 else
                 {
-                    d = Strings.Mid(value, 4, 2) + spliter_format + Strings.Mid(value, 1, 2) + spliter_format + Strings.Mid(value, 7);
+                    d = value.Substring(3, 2) + spliter_format + value.Substring(0, 2) + spliter_format + value.Substring(6);
                 }
             }
 

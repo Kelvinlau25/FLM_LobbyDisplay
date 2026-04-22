@@ -1,0 +1,11 @@
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.common.xml
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.common.dll
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.common.pdb
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.Root.dll
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.Root.pdb
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\Library.Root.xml
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\Library.Common.csproj.AssemblyReference.cache
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\Library.Common.csproj.CoreCompileInputs.cache
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\Library..28B89756.Up2Date
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\Library.common.dll
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\Library.common.pdb

@@ -5,7 +5,6 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Web.UI.WebControls;
-using Microsoft.VisualBasic;
 
 public partial class acc_MstMain_MM_VerticalScreenFull : System.Web.UI.Page
 {
@@ -36,7 +35,7 @@ public partial class acc_MstMain_MM_VerticalScreenFull : System.Web.UI.Page
         }
         catch (Exception ex)
         {
-            Interaction.MsgBox(ex.Message);
+            Library.Root.Control.MessageCenter.ShowAJAXMessageBox(this.Page, ex.Message);
         }
         return result;
     }
@@ -57,7 +56,7 @@ public partial class acc_MstMain_MM_VerticalScreenFull : System.Web.UI.Page
         catch (Exception ex)
         {
             result = false;
-            Interaction.MsgBox(ex.Message);
+            Library.Root.Control.MessageCenter.ShowAJAXMessageBox(this.Page, ex.Message);
         }
         return result;
     }
@@ -85,7 +84,7 @@ public partial class acc_MstMain_MM_VerticalScreenFull : System.Web.UI.Page
         if (ddlcondition.SelectedItem.Value.Equals("LIKE"))
         {
             str = ddloperate.SelectedItem.Value + " " + ddlsearch.SelectedItem.Value + " LIKE '%" + txtsearch.Text.ToUpper() + "%'" + " ";
-            Interaction.MsgBox(str);
+            Library.Root.Control.MessageCenter.ShowAJAXMessageBox(this.Page, str);
         }
         else
         {
