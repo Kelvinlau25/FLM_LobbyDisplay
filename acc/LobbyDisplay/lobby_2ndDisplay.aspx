@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="lobby_2ndDisplay.aspx.vb" Inherits="acc_LobbyDisplay_lobby_2ndDisplay" title="2nd Display Video" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="lobby_2ndDisplay.aspx.cs" Inherits="acc_LobbyDisplay_lobby_2ndDisplay" title="2nd Display Video" %>
 
 <!DOCTYPE html>
 <html>

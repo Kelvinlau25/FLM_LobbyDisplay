@@ -24,7 +24,7 @@ public partial class Style2_Menu : System.Web.UI.Page
         get { return _HomeURL; }
     }
 
-    protected void Style2_Menu_Init(object sender, EventArgs e)
+    protected void Page_Init(object sender, EventArgs e)
     {
         if (Request.QueryString["id"] != null)
         {

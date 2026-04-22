@@ -1,4 +1,4 @@
-﻿<%@ Control Language="VB" ClassName="Search" AutoEventWireup="false" CodeFile="Search.ascx.vb" EnableViewState="true" Inherits="Search" %>
+﻿<%@ Control Language="C#" ClassName="Search" AutoEventWireup="true" CodeFile="Search.ascx.cs" EnableViewState="true" Inherits="Search" %>
 <div id='searchMsg'>
     <h3><asp:Label ID="lblSearch" runat="server" Text="Basic Search" /></h3>
     <asp:Panel ID="pnlBasic" runat="server">
@@ -36,10 +36,10 @@
                     <asp:TextBox ID="txtSearch" CssClass="basicsearch" runat="server" TabIndex="2" Width="150px"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClientClick="return BasicSearchChecker();" Width="74px" />
+                    <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClientClick="return BasicSearchChecker();" Width="74px" OnClick="btnSubmit_Click" />
                 </td>
                 <td width="305">
-                    <asp:LinkButton ID="lbAdvSearch" runat="server">Advance Search</asp:LinkButton>
+                    <asp:LinkButton ID="lbAdvSearch" runat="server" OnClick="lbAdvSearch_Click">Advance Search</asp:LinkButton>
                 </td>
             </tr>
         </table>
@@ -133,7 +133,7 @@
                     </asp:DropDownList>
                 </td>
                 <td>
-                    <asp:Button ID="btnPlus" runat="server" OnClientClick="return AddConditionCheck();" Text="+" />
+                    <asp:Button ID="btnPlus" runat="server" OnClientClick="return AddConditionCheck();" Text="+" OnClick="btnPlus_Click" />
                 </td>
             </tr>
             <tr>
@@ -144,16 +144,16 @@
                     <asp:ListBox ID="searchCriteria" class="searchCriteria" runat="server" Width="377px" />
                 </td>
                 <td>
-                    <asp:Button ID="btnMinus" runat="server" Text="-" />
+                    <asp:Button ID="btnMinus" runat="server" Text="-" OnClick="btnMinus_Click" />
                 </td>
                 <td>
-                    <asp:Button ID="btnSubmit2" runat="server" Text="Submit Query" OnClientClick="return AdvSearchChecker();" />
+                    <asp:Button ID="btnSubmit2" runat="server" Text="Submit Query" OnClientClick="return AdvSearchChecker();" OnClick="btnSubmit2_Click" />
                 </td>
                 <td>
-                    <asp:Button ID="btnReset" runat="server" Text="Reset" OnClientClick="return confirm('Are you going to delete all the search condition?')" />
+                    <asp:Button ID="btnReset" runat="server" Text="Reset" OnClientClick="return confirm('Are you going to delete all the search condition?')" OnClick="btnReset_Click" />
                 </td>
                 <td>
-                    <asp:LinkButton ID="lbBasicSearch" runat="server">Basic Search</asp:LinkButton>
+                    <asp:LinkButton ID="lbBasicSearch" runat="server" OnClick="lbBasicSearch_Click">Basic Search</asp:LinkButton>
                 </td>
             </tr>
         </table>
@@ -161,7 +161,7 @@
     <table>
         <tr>
             <td>
-                <asp:CheckBox ID="chkDeleted" runat="server" Text="Show Deleted Records " AutoPostBack="true" Width="345px" />
+                <asp:CheckBox ID="chkDeleted" runat="server" Text="Show Deleted Records " AutoPostBack="true" Width="345px" OnCheckedChanged="chkDeleted_CheckedChanged" />
             </td>
         </tr>
     </table>

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="lobby_mainDisplay.aspx.vb" Inherits="Acc_LobbyDisplay_lobby_mainDisplay" title="Main Display Video" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="lobby_mainDisplay.aspx.cs" Inherits="Acc_LobbyDisplay_lobby_mainDisplay" title="Main Display Video" %>
 
 <!DOCTYPE html>
 <html>

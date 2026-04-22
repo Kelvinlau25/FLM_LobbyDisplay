@@ -1,4 +1,4 @@
-<%@ Page Language="VB" MasterPageFile="~/master/Main.master" AutoEventWireup="false" CodeFile="ImgVideoPreview.aspx.vb" Inherits="acc_PopUpLobby2_ImgVideoPreview" title="Untitled Page" %>
+<%@ Page Language="C#" MasterPageFile="~/master/Main.master" AutoEventWireup="true" CodeFile="ImgVideoPreview.aspx.cs" Inherits="acc_PopUpLobby2_ImgVideoPreview" title="Untitled Page" %>
 
 <%@ Register Assembly="Media-Player-ASP.NET-Control" Namespace="Media_Player_ASP.NET_Control"
     TagPrefix="cc1" %>

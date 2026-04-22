@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -6,7 +6,7 @@
 <head runat="server">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=8" /> 
-    <title><%=ConfigurationManager.AppSettings("title")%></title>
+    <title><%=ConfigurationManager.AppSettings["title"]%></title>
     <link href="css/SignIn.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -45,7 +45,7 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <td></td>
-                                                                        <td><asp:ImageButton ID="btnSubmit" ValidationGroup="login" runat="server" ImageUrl="image/button-login.gif" />&nbsp;<a  style="display:none;"  href="ChangePassword.aspx">Changed Password</a></td>
+                                                                        <td><asp:ImageButton ID="btnSubmit" ValidationGroup="login" runat="server" ImageUrl="image/button-login.gif" OnClick="btnSubmit_Click" />&nbsp;<a  style="display:none;"  href="ChangePassword.aspx">Changed Password</a></td>
                                                                     </tr>
                                                                 </table>
                                                             </td>

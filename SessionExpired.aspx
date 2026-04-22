@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="SessionExpired.aspx.vb" Inherits="SessionExpired" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="SessionExpired.aspx.cs" Inherits="SessionExpired" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -13,7 +13,7 @@
         <br /> 
         <br /> 
         <asp:Panel runat ="server" ID="pnl">
-        <a target="_parent" href="<%= resolveurl(me.ReturnURL()) %>">Click here to login again</a>
+        <a target="_parent" href="<%= ResolveUrl(this.ReturnURL) %>">Click here to login again</a>
         </asp:Panel> 
     </p> 
 </body>

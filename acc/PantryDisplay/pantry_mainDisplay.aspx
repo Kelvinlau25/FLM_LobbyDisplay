@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="pantry_mainDisplay.aspx.vb" Inherits="Acc_PantryDisplay_pantry_mainDisplay" title="Main Display Video" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="pantry_mainDisplay.aspx.cs" Inherits="Acc_PantryDisplay_pantry_mainDisplay" title="Main Display Video" %>
 
 <!DOCTYPE html>
 <html>
