@@ -1,0 +1,202 @@
+﻿div.ArticleDetailHeader
+{
+	margin: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 5px;
+	border-bottom: solid 2px rgb(0,0,100);
+	font-size: 1em;
+}
+
+div.ArticleDetailHeader .TitleText
+{
+	color: rgb(0,0,100);
+	font-size: 1.35em;
+	font-weight: bold;
+	padding-bottom: 6px;
+	text-align:left;
+}
+
+div.ArticleDetailHeader table.NoteText tr td
+{
+	color: #666;
+	font-weight: bold;
+	font-size: 1.05em;
+	text-align:left;
+}
+
+div.ArticleDetailContent
+{
+	margin: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align:left;
+}
+
+
+
+
+
+
+
+div.pdf-file-item 
+{
+	position:relative;
+	width:50%;
+	padding:5px;
+	margin:0;
+	margin-bottom:5px;
+}
+div.pdf-file-item a
+{
+	color:#33c;
+	text-decoration: none;
+	font-size:1em;
+}
+div.pdf-file-item a:hover, div.pdf-file-item a:focus
+{
+	color:#33f;
+	text-decoration: underline;
+}
+
+
+
+
+
+.file-item
+{
+	display: inline-block;
+	width: 100%;
+	height: 32px;
+	border: 1px solid #bbb;
+	background-color: #e4f4f4;
+	padding: 0;
+	margin: 0;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.file-item .file-img-PDF  
+{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-image: url(../images/file_pdf.png); 
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.file-item .file-img-WORD
+{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-image: url(../images/file_word.png); 
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.file-item .file-img-EXCEL
+{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-image: url(../images/file_excel.png); 
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.file-item .file-img-POWERPOINT
+{
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-image: url(../images/file_powerpoint.png); 
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.file-item .file-name
+{
+	float: left;
+	height: 32px;
+	font-size: 0.85em;
+	padding-top: 10px;
+	margin-left: 10px;
+}
+.file-item .file-name a 
+{
+	text-decoration: none; 
+	color: #33d; 
+}
+.file-item .file-name a:hover, .file-item .file-name a:focus 
+{ 
+	text-decoration: underline; 
+	color: #229; 
+}
+
+div.newsentry {
+	margin:0 0 5px 0;
+	padding:10px 0;
+	background:url(../images/imgslashdot.jpg) repeat-x bottom;
+}
+
+div.newsentry div.newsimg {
+	width:119px;
+	height:69px;
+	float:left;
+	display:inline;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+div.newsentry div.newsinfo {
+	display:inline;
+	float:right;
+	width:560px;
+}
+
+div.newsentry div.newsinfo span.newssection {
+	float:left;
+	font-size:1.05em;
+	line-height: 1.5em;
+	color: #999;
+}
+
+div.newsentry div.newsinfo span.newsdate {
+	float:right;
+	font-size:1.05em;
+	line-height: 1.4em;
+	color: #999;
+}
+
+div.newsentry div.newsinfo span.newstitle {
+	float:left;
+	margin:0 0 0 0;
+	font-size:1.3em;
+	line-height: 1.55em;
+	font-weight:bold;
+}
+
+div.newsentry div.newsinfo span.newstitle a {
+	text-decoration:none;
+	color:#014fb8;
+}
+
+div.newsentry div.newsinfo span.newscontent p {
+	font-size:1.2em;
+	line-height:1.25em;
+	color:#555;
+	text-align:justify;
+}
+
+div.newsentry div.newsinfo span.newscontent span.newsmore{
+	float:right;
+	font-size:1.05em;
+	margin-top: -12px;
+}
+div.newsentry div.newsinfo span.newscontent span.newsmore a {
+	text-decoration:none;
+	color:#014fb8;
+	font-weight:bold;
+	font-size:1.05em;
+}
+
+div.newsentry div.newsinfo span.newscontent span.newsmore a:hover {
+	text-decoration:underline;
+}

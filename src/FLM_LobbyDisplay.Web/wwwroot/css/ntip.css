@@ -1,0 +1,19 @@
+﻿#NT_copy {
+	background-color: #333333;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Arial;
+	width: 700px;
+	left: 0;
+	top: 0;
+	padding: 4px;
+	position: absolute;
+	text-align: left;
+	z-index: 20;
+	-moz-border-radius: 0 10px 10px 10px;
+	filter: progid: DXImageTransform.Microsoft.Alpha(opacity=87);
+	-moz-opacity: .87;
+	-khtml-opacity:.87;
+	opacity:.87;
+}

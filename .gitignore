@@ -1,0 +1,20 @@
+# Build output (new .NET 8 solution)
+[Bb]in/
+[Oo]bj/
+
+# Don't ignore the legacy /Bin folder (it ships compiled DLLs that the
+# Web Forms app depends on at runtime); only ignore project-level bin/obj.
+!/Bin/
+
+# .NET tooling
+*.user
+.vs/
+.vscode/
+
+# User secrets / local-only config
+appsettings.Local.json
+secrets.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
