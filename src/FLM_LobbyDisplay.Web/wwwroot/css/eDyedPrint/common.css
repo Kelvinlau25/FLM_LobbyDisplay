@@ -1,0 +1,73 @@
+﻿body
+{
+	padding:0px;
+	margin:0px;
+}
+
+.table,.table tr td
+{
+	border:solid 1px #dccdcc;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.SubTotal
+{
+	font-size:18px;
+	font-weight:bold;
+	background:#CCFF33;
+}
+
+.Total
+{
+	font-size:20px;
+	font-weight:bold;
+	background:#C0C0C0;
+}
+
+.head
+{
+	font-size:22px;
+	font-weight:bold;
+	background:#eee9e9;
+}
+
+.title
+{
+	background:#fff5ee;
+	font-weight:bold;
+	text-align:center;
+}
+
+.short
+{
+	width:80px;
+}
+
+.normal
+{
+	width:100px;
+}
+
+.long
+{
+	width:150px;
+}
+
+.right
+{
+	text-align:right;
+}
+
+.left
+{
+	text-align:left;
+}
+
+.center
+{
+	text-align:center;
+}
+
+
+

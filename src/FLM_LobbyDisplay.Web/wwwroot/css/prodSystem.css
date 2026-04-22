@@ -1,0 +1,245 @@
+/*************************************************************/
+/* Overwrite PenGroup.css navigatorbar, title_bar, content
+   and  as changes on backgroud and font color		     */
+/*************************************************************/
+.ZebraOdd {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+
+.ZebraEven {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dddddd;
+}
+
+.navigatorbar{
+	background-color: #91B3DD;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: blue;
+}
+
+.navigatorbar_sub{
+	background-color: #91B3DD;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+}
+.navigatorbar_b{
+	background-color: #91B3DD;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+}
+.title_bar{
+	background-color: #DDEEFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: blue;
+	border: 1px solid #91B3DD;
+}
+
+.title_bar_table{
+	background-color: #DDEEFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	font-weight:bold;
+	color: blue;
+}
+.title_bar_h{
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 16px;
+	font-weight: bold;
+}
+.title_bar_b{
+	background-color: #DDEEFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+	color: blue;
+	border: 1px solid #91B3DD;
+}
+.content{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+.content_b{
+	background-color: #DDEEFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+.content_warning{
+	background-color: yellow;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+.edit {
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	/*border: 1px solid #91B3DD;*/
+}
+.edit_b {
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+	color: black;
+	/*border: 1px solid #91B3DD;*/
+}
+.highlight{
+	/*background-color: FFFF99;*/
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #999999;
+}
+
+.content_red{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+        font-weight: bold;
+	color: red;
+	border: 1px solid #91B3DD;
+
+}
+.content_red_noborder{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+    font-weight: bold;
+	color: red;
+	border: none;
+
+}
+.content_blue{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 14px;
+    font-weight: bold;
+	color: blue;
+	border: 1px solid #91B3DD;
+}
+/********************************************************/
+/* Backgroud color for completed process, normal process
+   and reprocess, used for WIP inquiry only */
+/********************************************************/
+.completed {
+	background-color: #CEFFE7;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+
+.reprocess {
+	background-color: #FFC4C4;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+
+.normal {
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+
+/******************************************************/
+/* Used for WIP Trolley/Batch No maintenance          */
+/******************************************************/
+.barcode {
+	background-color: white;
+	border: 1px solid #999999;
+	font-family: C39P24DhTt;
+	font-size: 8px;
+	color: black;
+}
+
+
+/********************************************/
+/* Mandatory field for all the form         */
+/********************************************/
+.requiredField{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ff0000;
+}
+
+
+/********************************************/
+/* Search Panel configuration
+/********************************************/
+.a10b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+
+/********************************************/
+/* Pagination bar for inventory details     */
+/********************************************/
+.detailspagination{
+	background-color: #C1D5EC;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: blue;
+}
+
+
+/********************************************/
+/* Line of Record Seperator for Color Detail */
+/********************************************/
+.ColContent{
+	background-color: #EEF7F7;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+
+/********************************************/
+/* Line of Record Seperator for filter      */
+/********************************************/
+
+.filterClass{
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+}
+
+/*******************************************/
+/* Highlighted content for WIP Inventory   */
+/*******************************************/
+.highlight_title{
+	background-color: #DDEEFF;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: red;
+	border: 1px solid #91B3DD;
+}
+
+.wpinv_content{
+	background-color: white;
+	width: 50;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+	border: 1px solid #91B3DD;
+}
+.top_baner{
+	background-color: #91B3DD;
+	font-family: Arial, Helvetica, sans-seri;
+	font-size: 12px;
+	color: black;
+}
