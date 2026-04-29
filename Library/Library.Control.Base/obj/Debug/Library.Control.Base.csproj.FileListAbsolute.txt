@@ -1,7 +1,0 @@
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Debug\Library.Control.Base.xml
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Debug\Library.Control.Base.dll
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Debug\Library.Control.Base.pdb
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Debug\Library.Control.Base.csproj.AssemblyReference.cache
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Debug\Library.Control.Base.csproj.CoreCompileInputs.cache
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Debug\Library.Control.Base.dll
-C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Debug\Library.Control.Base.pdb
