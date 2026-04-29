@@ -1,0 +1,11 @@
+@page "/acc/LobbyDisplay2/Display2_Mst"
+@model FLM_LobbyDisplay.Pages.acc.LobbyDisplay2.Display2MstModel
+@{ ViewData["Title"] = "Signage Display"; }
+<h2>Digital Signage Display (Engineering Room)</h2>
+<hr />
+<table>
+    <tr>
+        <td><button onclick="window.open('@Url.Content("~/acc/LobbyDisplay2/lobby2_mainDisplay")','_blank')" style="width:130px;height:50px;font-weight:bold;">Display 1</button></td>
+        <td><button onclick="window.open('@Url.Content("~/acc/LobbyDisplay2/lobby2_2ndDisplay")','_blank')" style="width:130px;height:50px;font-weight:bold;">Display 2</button></td>
+    </tr>
+</table>

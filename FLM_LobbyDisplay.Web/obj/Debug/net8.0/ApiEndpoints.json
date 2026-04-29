@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FLM_LobbyDisplay.Api.PlaylistController",
+    "Method": "Get",
+    "RelativePath": "api/playlist/{screenId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "screenId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

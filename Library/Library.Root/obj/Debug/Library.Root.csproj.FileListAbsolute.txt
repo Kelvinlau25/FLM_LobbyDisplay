@@ -1,0 +1,7 @@
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\Library.Root.xml
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\Library.Root.dll
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\Library.Root.pdb
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\Library.Root.csproj.AssemblyReference.cache
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\Library.Root.csproj.CoreCompileInputs.cache
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\Library.Root.dll
+C:\CONVERTED PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\Library.Root.pdb

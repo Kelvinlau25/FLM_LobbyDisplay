@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FLM_LobbyDisplay
+build_property.RootNamespace = FLM_LobbyDisplay
+build_property.ProjectDir = C:\CONVERTED PROJECT\FLM_LobbyDisplay\FLM_LobbyDisplay.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\CONVERTED PROJECT\FLM_LobbyDisplay\FLM_LobbyDisplay.Web
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay2/Display2_Mst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheTJcRGlzcGxheTJfTXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay2/lobby2_2ndDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheTJcbG9iYnkyXzJuZERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay2/lobby2_mainDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheTJcbG9iYnkyX21haW5EaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay/Display_Mst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheVxEaXNwbGF5X01zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay/lobby_2ndDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheVxsb2JieV8ybmREaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/LobbyDisplay/lobby_mainDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXExvYmJ5RGlzcGxheVxsb2JieV9tYWluRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainLobby2/FullMainScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5Mb2JieTJcRnVsbE1haW5TY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainLobby2/Lower2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5Mb2JieTJcTG93ZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainLobby2/MM_VerticalScreenFull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5Mb2JieTJcTU1fVmVydGljYWxTY3JlZW5GdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainLobby2/Upper2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5Mb2JieTJcVXBwZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainPan/FullMainScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5QYW5cRnVsbE1haW5TY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainPan/Lower2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5QYW5cTG93ZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainPan/MM_VerticalScreenFull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5QYW5cTU1fVmVydGljYWxTY3JlZW5GdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMainPan/Upper2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5QYW5cVXBwZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMain/FullMainScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5cRnVsbE1haW5TY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMain/Lower2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5cTG93ZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMain/MM_VerticalScreenFull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5cTU1fVmVydGljYWxTY3JlZW5GdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/MstMain/Upper2ndScreen_Dtl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXE1zdE1haW5cVXBwZXIybmRTY3JlZW5fRHRsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PantryDisplay/Display_Mst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBhbnRyeURpc3BsYXlcRGlzcGxheV9Nc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PantryDisplay/pantry_2ndDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBhbnRyeURpc3BsYXlccGFudHJ5XzJuZERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PantryDisplay/pantry_mainDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBhbnRyeURpc3BsYXlccGFudHJ5X21haW5EaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PopUpLobby2/ImgVideoPreview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBvcFVwTG9iYnkyXEltZ1ZpZGVvUHJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PopUpPan/ImgVideoPreview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBvcFVwUGFuXEltZ1ZpZGVvUHJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/acc/PopUp/ImgVideoPreview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWNjXFBvcFVwXEltZ1ZpZGVvUHJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/Menu/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/SessionExpired.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbkV4cGlyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CONVERTED PROJECT/FLM_LobbyDisplay/FLM_LobbyDisplay.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,16 @@
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Release\net8.0\Library.Control.Base.deps.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Release\net8.0\Library.Control.Base.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Release\net8.0\Library.Control.Base.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Release\net8.0\Library.Root.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\bin\Release\net8.0\Library.Root.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.csproj.AssemblyReference.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.AssemblyInfoInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.AssemblyInfo.cs
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.csproj.CoreCompileInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.sourcelink.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library..783B4565.Up2Date
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\refint\Library.Control.Base.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\Library.Control.Base.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Control.Base\obj\Release\net8.0\ref\Library.Control.Base.dll

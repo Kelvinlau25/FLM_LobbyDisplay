@@ -1,0 +1,16 @@
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\net8.0\Library.common.deps.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\net8.0\Library.common.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\net8.0\Library.common.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\net8.0\Library.Root.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\bin\Debug\net8.0\Library.Root.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.vbproj.AssemblyReference.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.AssemblyInfoInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.AssemblyInfo.vb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.vbproj.CoreCompileInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.Common.sourcelink.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library..C94F9471.Up2Date
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.common.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\refint\Library.common.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\Library.common.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Common\obj\Debug\net8.0\ref\Library.common.dll

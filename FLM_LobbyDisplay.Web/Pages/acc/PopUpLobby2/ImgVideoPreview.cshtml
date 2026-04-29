@@ -1,0 +1,17 @@
+@page "/acc/PopUpLobby2/ImgVideoPreview"
+@model FLM_LobbyDisplay.Pages.acc.PopUpLobby2.ImgVideoPreviewModel
+@{ ViewData["Title"] = "Preview"; }
+
+@section head {
+    <style>
+        body { background: black; margin: 0; padding: 0; }
+    </style>
+}
+
+@if (!string.IsNullOrEmpty(Model.VideoPath))
+{
+    <video width="100%" height="100%" controls autoplay>
+        <source src="@Model.VideoPath" />
+        Your browser does not support video.
+    </video>
+}

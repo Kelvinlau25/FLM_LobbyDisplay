@@ -1,0 +1,1121 @@
+@charset "utf-8";
+/* Styles */
+
+body
+{
+	font-family:"Arial", Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+	font-size:14px;
+}
+
+@media screen and (orientation:landscape) {
+
+.main
+{
+	width:1024px;
+	margin:0 auto;
+	height: 747px;
+    overflow: hidden;
+}
+
+#header
+{
+	background:url(../images/haade_new.png) no-repeat top center;
+	width:1024px;
+	height:114px;
+	position: relative;
+}
+
+.home_banner_TML
+{
+	background:url(../images/landing_noticeboard.jpg) no-repeat top center;
+	width: 1024px;
+    height: 747px;
+}
+
+   .home_banner_SALES
+   {
+	background:url(../images/landing_noticeboard_sales.jpg) no-repeat top center;
+	width: 768px;
+    height: 1006px;
+   }
+   
+img
+{
+	border:0;
+}
+.info
+{
+	background:url(../images/bg.jpg) repeat top left;
+	width: 728px;
+	min-height: 644px;
+	margin-top: -35px;
+	padding: 25px 20px 10px 20px;
+	margin-bottom: -48px;
+}
+
+.info h2
+{
+	margin: 0px;
+	background: #4f740a;
+	font-weight: normal;
+	font-size: 18px;
+	color: #fff;
+	padding: 10px 30px;
+	margin-bottom: 14px;
+	margin-top:10px;
+}
+
+.info h4
+{
+	margin: 0px;
+	background: #4f740a;
+	font-weight: normal;
+	font-size: 18px;
+	color: #c0c0c0;
+	padding: 10px 30px;
+	margin-top:10px;
+	text-shadow: 1px 0px 19px rgba(223, 223, 223, 1);
+	font-size:24px;
+	font-weight:bold;
+}
+
+.span
+{
+	padding:0px !important;
+	width:775px;
+}
+
+.info h3
+{
+	color: #c0c0c0;
+	background: #4f740a;
+	margin: -20px -20px 10px -20px;
+	padding: 15px 0px 5px 20px;
+}
+.menu h3
+{
+	margin:10px 37px;
+	padding:0;
+}
+
+.info-box-empty
+{
+	background:url(../images/info_bg.png) no-repeat top center;
+	width:750px;
+	height: 84px;
+	float: left;	
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+
+.info-box
+{
+	background:url(../images/info_bg.png) no-repeat top center;
+	width:228px;
+	height: 84px;
+	float:left;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+		.testing
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+            height: 500px;
+            width: 725px;
+           
+        }
+        
+        .testing_landscape
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+            height: 500px;
+            width: 725px;
+           
+        }
+       .scrollmenu
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+			height: 500px;
+        }
+       .timer
+        {
+            font-size: medium;
+            font-style: inherit;
+            top: 60px;
+            left: 14px;
+            height: 18px;
+            position: absolute;
+            background-color: Transparent;          
+            color:blue;  
+            border-radius: 5px;                 
+        }
+       .buttonstyle
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 200px;
+            z-index: 999;
+        }
+        .buttonstyle2
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 300px;
+            z-index: 999;
+        }
+        .buttonstyle3
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 400px;
+            z-index: 999;
+        }
+           .frame
+        {
+            width: 630px;          
+        }
+        
+        .frame_l
+        {
+            width: 975px;          
+        }
+        
+        .homebtn
+		{
+			position :absolute ;
+			top:103px;
+			left:650px;
+		}
+		
+		.homebtn_PDF
+		{
+			position :absolute ;
+			top:23px;
+			left:500px;
+		}
+		
+		.videosstyle
+		{
+			width: 703px;
+            height: 400px;
+		}
+		
+		.span_eNotice
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:12.4px;
+			text-align: center;
+		}
+		
+		.span_PDate
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:12.4px;
+			text-align: left;
+			left:5px;
+		}
+.new
+{
+	background:url(../images/green.png) no-repeat top center !important;
+	width:228px;
+	height: 84px;
+	float:left;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+.pull-left
+{
+	float:left;
+}
+.pull-right
+{
+	float:right;
+}
+.menu
+{
+	background:url(../images/leftbg.png) no-repeat top right;
+	width:285px;
+	height:678px;
+	margin-top: -24px;
+    margin-left: -40px;
+	margin-bottom: -48px;
+}
+
+
+
+#footer
+{
+	background:url(../images/footer_bg.png) repeat-x;
+	width: 1024px;
+	margin: 0 auto;
+	height: 14px;
+	z-index: 35;
+	position: relative;
+	padding: 18px 0px;
+	font-size: 16px;
+	color: #fff;
+	display: block;
+	margin-top: -20px;
+	border: none;
+}
+
+#paging_container3 ul
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	min-height: 515px;
+}
+#menu-right
+{
+	display:none;
+}
+
+
+}
+
+
+
+@media screen and (orientation:portrait) {
+	.menu
+    {
+		display:none;
+	}
+	.main
+    {
+	width:768px;
+	margin:0 auto;
+	height: 1003px;
+    overflow: hidden;
+    }
+	.home_banner_TML
+   {
+	background:url(../images/home_page1_1.jpg) no-repeat top center;
+	width: 768px;
+    height: 1006px;
+   }
+   
+   .home_banner_SALES
+   {
+	background:url(../images/home_page1_1_Sales.jpg) no-repeat top center;
+	width: 768px;
+    height: 1006px;
+   }
+  
+	#header
+    {
+	background:url(../images/header1_new.png) no-repeat top center;
+	width:768px;
+	height:88px;
+	position: fixed;
+    }
+    
+	#page
+	{
+		background:url(../images/background.jpg) no-repeat top center;
+		height: 900px;
+		position: relative;		
+		top: 95px;
+	}
+	
+	#page_PDF
+	{		
+		height: 915px;
+		position: relative;	
+		top: 45px;	
+	}
+	 
+	.info .title 
+	{
+		color: #c0c0c0;
+		background: #4f740a;
+		margin-top: -25px;
+        padding: 15px 0px 10px 15px;
+	}
+	
+	.info h3
+	{
+		float:left;
+		margin: 0;
+	}
+	
+	.titleh4 .right,.title .right
+	{
+		background:url(../images/menu.png) no-repeat top center;
+		width: 103px;
+		height: 26px;
+		display: block;
+		float: right;
+		margin-right: 10px;
+		margin-top: 3px;
+		float:right;
+	}
+
+	#page nav
+	{
+		display: none;
+	}
+	
+	.header a.right
+	{
+		left: auto;
+		right: 10px;
+	}
+	
+	.info-box-empty
+{
+	background:url(../images/info_bg.png) no-repeat top center;
+	width:750px;
+	height: 284px;
+	align:center;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+
+	.info-box
+    {
+	 background:url(../images/info_bg.png) no-repeat top center;
+	 width:228px;
+	height: 84px;
+	float:left;
+	margin-right:14px;
+	text-align: center;	
+	padding: 44px 0px;
+	position: inherit;
+	top:0px;
+     }
+     
+	.testing
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+			height: 750px;
+			width: 700px;
+        }
+        
+        .testing_PDF
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+			height: 857px;
+			width: 700px;
+        }
+        
+         .testing_landscape
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+            height: 500px;
+            width: 700px;           
+        }
+        
+        .scrollmenu
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+			height: 750px;
+        }
+       .timer
+        {
+            font-size: medium;
+            font-style: inherit;
+            top: 50px;
+            left: 12px;
+            height: 18px;
+            position: absolute;
+            background-color: Transparent; 
+            color:blue;           
+            border-radius: 5px;
+        }
+       .buttonstyle
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 200px;
+            z-index: 999;
+            left: 19px;
+        }
+        .buttonstyle2
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 300px;
+            z-index: 999;
+            left: 19px;
+        }
+        .buttonstyle3
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 400px;
+            z-index: 999;
+            left: 19px;
+        }
+        .frame
+        {
+            width: 630px;
+            
+        }
+        
+        .frame_l
+        {
+            width: 975px;          
+        }
+           .homebtn
+		{
+			position :absolute ;
+			top:13px;
+			left:550px;
+		}
+		
+		   .homebtn_PDF
+		{
+			position :absolute ;
+			top:23px;
+			left:100px;
+		}
+		
+		.videosstyle
+		{
+			width: 703px;
+            height: 570px;
+		}
+		
+		.span_eNotice
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:12.4px;
+			text-align: center;
+		}
+		
+		.span_PDate
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:12.4px;
+			text-align: left;
+		}
+		
+	 .new
+    {
+	background:url(../images/Green.png) no-repeat top center !important;
+	width:228px;
+	height: 84px;
+	float:left;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+
+    }
+    #paging_container3 ul {
+	list-style: none;
+	padding: 0;
+	min-height: 780px;
+	width: 730px;
+	margin: 20px auto 0px auto;
+    }
+    .alt_page_navigation
+	{
+		margin-left:20px;		
+	}
+	
+	#footer
+    {
+	background:url(../images/footer_bg.png) repeat-x;
+	width: 768px;
+	margin: 0 auto;
+	height: 14px;
+	z-index: 35;
+	top:969px;
+	position: fixed;
+	padding: 18px 0px;
+	font-size: 16px;
+	color: #fff;
+	display: block;
+	margin-top: -7px;
+	border: none;
+    }
+	#menuwrapper { 
+     margin-left: 0px;
+     top: 72px;
+    }
+	
+   .mm-opening  .main.mm-page
+   {
+	 
+   }
+   
+   #menu-right h3
+   {
+	 color: #000;
+	background: url(../images/title_bg.png) no-repeat top right;
+	padding: 10px 5px 20px 30px;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0;
+	z-index: 999;
+	position: relative;
+	text-shadow: 1px 0px 19px rgba(223, 223, 223, 1);
+	top: 72px;
+   }
+   #menuwrapper {
+	   background:url(../images/menu_bg.png) repeat-y top center;
+	   margin-left:0 !important;
+	   
+   }
+   #menuwrapper ul
+   {
+	   margin-top: 56px !important;
+	   margin-left: 15px !important;
+   }
+    #menuwrapper ul li ul
+   {
+	   margin-top: 0px !important;
+	   margin-left: 0px !important;
+   }
+   #menuwrapper {
+	margin-left: 0px;
+	padding: 0;
+	margin: 0;
+	
+    }
+	 
+	 .titleh4
+	 {
+		margin: 0px;
+		background: #4f740a;
+		padding: 10px 0px;
+		margin-top:-20px;
+	 }
+	.info h4
+    {	
+	font-weight: normal;
+	font-size: 18px;
+	color: #c0c0c0;
+	margin: 0;
+	float:left;
+	margin-top: 5px;
+    margin-left: 20px;
+    text-shadow: 1px 0px 19px rgba(223, 223, 223, 1);
+	font-size:24px;
+	font-weight:bold;
+    }
+	.span
+	{
+		padding:0px !important;
+		width:768px;
+	}
+}
+#load_footer
+{
+  margin-top: -22px;
+}
+
+#load_footer .home-footer
+{
+	color:#fff;
+	font-size:18px;
+	font-weight:bold
+}
+#page h3
+{
+	text-shadow: 1px 0px 19px rgba(223, 223, 223, 1);
+	font-size:24px;
+	font-weight:bold;
+}
+.clear
+{
+	clear:both;
+}
+
+/*menu*/
+
+#menuwrapper
+{
+	margin-left:18px;
+		
+}
+#menuwrapper ul, #menuwrapper ul li{
+    margin:0;
+    padding:0;
+    list-style:none;
+    
+}
+
+/* We apply background color and border bottom white and width to 150px */
+#menuwrapper ul li{
+    border-bottom:solid 1px white;
+    border-bottom: solid 1px #eaeaea;
+    cursor: pointer;
+    
+}
+
+/* We apply the background hover color when user hover the mouse over of the li component */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover
+#menuwrapper ul li.iehover{
+    position:relative;
+    
+}
+
+/* We apply the link style */
+#menuwrapper ul li a{
+    padding: 14px 40px 14px 30px;
+    color:#3e4b99;
+	font-weight:bold;
+	font-size:18px;
+    display:inline-block;
+    text-decoration:none;
+    
+}
+
+.menu_new_right
+{
+	background:url(../images/new.png) no-repeat right center;
+}
+
+.menu_new_left
+{
+	background:url(../images/new.png) no-repeat left center;
+}
+
+/**** SECOND LEVEL MENU ****/
+/* We make the position to absolute for flyout menu and hidden the ul until the user hover the parent li item */
+#menuwrapper ul li ul{
+    display:none;
+}
+
+/* When user has hovered the li item, we show the ul list by applying display:block, note: 150px is the individual menu width.  */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul, 
+#menuwrapper ul li.iehover ul{
+    left:150px;
+    top:0px;
+    display:block;
+}
+
+/* we apply different background color to 2nd level menu items*/
+#menuwrapper ul li ul li{
+	background:url(../images/submenu.jpg) repeat-x top center;
+}
+
+/* We change the background color for the level 2 submenu when hovering the menu */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li:hover,
+#menuwrapper ul li.iehover ul li.iehover{
+    background-color:#b1b536;
+}
+
+/* We style the color of level 2 links */
+#menuwrapper ul li ul li a{
+    color: #404040;
+	display: inline-block;
+	font-weight: normal;
+	padding: 12px 20px 12px 37px;
+	margin-left: 30px;
+}
+
+/**** THIRD LEVEL MENU ****/
+/* We need to hide the 3rd menu, when hovering the first level menu */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li ul,
+#menuwrapper ul li.iehover ul li ul{
+    display:none;
+}
+
+/* We show the third level menu only when they hover the second level menu parent */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li:hover ul,
+#menuwrapper ul li.iehover ul li.iehover ul{
+    display:block;
+    left:150px;
+    top:0;
+}
+
+/* We change the background color for the level 3 submenu*/
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li:hover ul li,
+#menuwrapper ul li.iehover ul li.iehover ul li{
+    background:#86d3fa;
+}
+
+/* We change the background color for the level 3 submenu when hovering the menu */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li:hover ul li:hover,
+#menuwrapper ul li.iehover ul li.iehover ul li.iehover{
+    background:#358ebc;
+}
+
+/* We change the level 3 link color */
+/* for IE < 9 we using class .iehover */
+#menuwrapper ul li:hover ul li:hover ul li a,
+#menuwrapper ul li.iehover ul li.iehover ul li a{
+    color:#ffffff;
+}
+
+#footer marquee
+{
+	width:100%;
+}
+
+/*paging*/
+
+#paging_container3
+{
+
+}
+
+.page_navigation , .alt_page_navigation{
+
+	margin-bottom:17px\9;
+}
+
+.page_navigation a, .alt_page_navigation a{
+	background: url(../images/page.png) no-repeat center center;
+    padding: 7px 10px;
+    margin: 3px 0px 5px 7px;
+	color:#fff;
+	text-decoration:none;
+	float: left;
+	font-size: 20px;
+	font-weight:bold;
+}
+.active_page{
+	background:url(../images/page_hover.png) no-repeat  center center!important;
+	color:#fff !important;
+}	
+.alt_page_navigation .previous_link
+{
+	background:url(../images/previous.png) no-repeat top center;
+	width: 157px;
+    height: 37px;
+	font-size: 0;
+	padding: 0;
+}
+
+.alt_page_navigation .next_link
+{
+	background:url(../images/next.png) no-repeat top center;
+	width: 153px;
+    height: 37px;
+	font-size:0;
+	padding:0;
+}
+
+.alt_page_navigation1 .previous_link
+{
+	display:none;
+}
+
+.alt_page_navigation1 .next_link
+{
+	display:none;
+}
+
+.first_link,.last_link
+{
+	display:none;
+}
+ 
+
+
+@media only screen and (min-width : 1224px) {
+
+.main
+{
+	width:1024px;
+	margin:0 auto;
+	height: 747px;
+    overflow: hidden;
+}
+
+#page_PDF
+	{		
+		height: 915px;
+		position: relative;	
+		top: 85px;	
+	}
+
+#header
+{
+	background:url(../images/haade_new.png) no-repeat top center;
+	width:1024px;
+	height:114px;
+	position: relative;
+}
+.home_banner
+{
+	background:url(../images/landing_noticeboard.jpg) no-repeat top center;
+	width: 1024px;
+    height: 747px;
+}
+img
+{
+	border:0;
+}
+.info
+{
+	background:url(../images/bg.jpg) repeat top left;
+	width: 728px;
+	min-height: 644px;
+	margin-top: -35px;
+	padding: 25px 20px 10px 20px;
+	margin-bottom: -48px;
+}
+
+.info h2
+{
+	margin: 0px;
+	background: #4f740a;
+	font-weight: normal;
+	font-size: 18px;
+	color: #fff;
+	padding: 10px 30px;
+	margin-bottom: 14px;
+	margin-top:10px;
+}
+
+.info h4
+{
+	margin: 0px;
+	background: #4f740a;
+	font-weight: normal;
+	font-size: 18px;
+	color: #c0c0c0;
+	padding: 10px 30px;
+	margin-top:10px;
+	text-shadow: 1px 0px 19px rgba(223, 223, 223, 1);
+	font-size:24px;
+	font-weight:bold;
+}
+
+
+.span
+{
+	padding:0px !important;
+	width:150px;
+}
+
+.info h3
+{
+	color: #c0c0c0;
+	background: #4f740a;
+	margin: -20px -20px 10px -20px;
+	padding: 15px 0px 5px 20px;
+}
+.menu h3
+{
+	margin:10px 37px;
+	padding:0;
+}
+
+.info-box-empty
+{
+	background:url(../images/info_bg.png) no-repeat top center;
+	width:750px;
+	height: 284px;
+	float: left;	
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+
+.info-box
+{
+	background:url(../images/info_bg.png) no-repeat top center;
+	width:228px;
+	height: 80px;
+	float:left;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+	
+}
+
+.testing
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+            height: 525px;
+            text-align :left ;
+            align:left;
+            width: 757px;
+        }
+        
+         .testing_landscape
+        {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+            height: 525px;
+            text-align :left ;
+            align:left;
+            width: 757px;           
+        }
+        .br1
+        {
+          display :none ;
+        }
+        .br2
+        {
+            display :none ;
+        }
+       .timer
+        {
+            font-size: medium;
+            top: 60px;
+            left: 30px;
+            height: 18px;
+            position: absolute;
+            background-color:Transparent;
+            color:blue;
+            border-radius: 5px;           
+        }
+       .buttonstyle
+        {
+        	display :none ;
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 200px;
+            z-index: 999;
+        }
+        .buttonstyle2
+        {
+        	display :none ;
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 300px;
+            z-index: 999;
+        }
+        .buttonstyle3
+        {
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 400px;
+            z-index: 999;
+        }
+        
+         .frame
+        {
+            width: 757px;
+            height:525px;
+        }
+        
+           .frame_l
+        {
+            width: 757px;
+            height:525px;
+        }
+         .homebtn
+		{
+			position :absolute ;
+			top:103px;
+			left:780px;
+		}
+		
+		 .homebtn_PDF
+		{
+			position :absolute ;
+			top:23px;
+			left:500px;
+		}
+		
+		.span_eNotice
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:12.4px;
+			text-align: center;
+		}
+		.span_PDate
+		{ 
+			display:block;
+			width:220px;
+			word-wrap:break-word;
+			font-size:11px;
+			text-align: center;
+			left:15px;
+		}
+
+.new
+{
+	background:url(../images/green.png) no-repeat top center !important;
+	width:228px;
+	height: 80px;
+	float:left;
+	margin-right:14px;
+	text-align: center;
+	padding: 44px 0px;
+}
+.pull-left
+{
+	float:left;
+}
+.pull-right
+{
+	float:right;
+}
+.menu
+{
+	background:url(../images/leftbg.png) no-repeat top right;
+	width:285px;
+	height:678px;
+	margin-top: -24px;
+    margin-left: -40px;
+	margin-bottom: -48px;
+}
+
+#footer
+{
+	background:url(../images/footer_bg.png) repeat-x;
+	width: 1024px;
+	margin: 0 auto;
+	height: 14px;
+	z-index: 35;
+	position: relative;
+	padding: 18px 0px;
+	font-size: 16px;
+	color: #fff;
+	display: block;
+	margin-top: -20px;
+	border: none;
+}
+
+#paging_container3 ul
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	min-height: 515px;
+}
+#menu-right
+{
+	display:none;
+}
+
+}

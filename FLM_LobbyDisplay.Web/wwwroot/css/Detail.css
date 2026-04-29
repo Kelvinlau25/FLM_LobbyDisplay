@@ -1,0 +1,171 @@
+﻿img
+{
+	border:0px;
+}
+
+.label
+{
+	width:250px;
+	height:25px;
+	text-align:left;
+	font-weight:bold;
+}
+
+.label2
+{
+	width:250px;
+	height:25px;
+	text-align:left;
+	font-weight:bold;
+}
+
+.hide
+{
+	display:none;
+}
+
+.header
+{
+	background-color:Gray;
+	font-weight:bold;
+}
+
+.left
+{
+	text-align:left;
+}
+
+.right
+{
+	text-align:right;
+}
+
+.ReadOnly
+{
+	border:0 solid white;
+}
+
+.divheader
+{
+	margin-bottom:10px;
+}
+
+.divheader
+{
+	border:3px solid black;
+	display:block;
+}
+
+.space
+{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.innerpadding
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.view
+{
+	width:100%;
+	border:solid 1px black;
+}
+
+.view tr td
+{
+	border:solid 1px black;	
+	text-align:right;
+}
+
+.view .center
+{
+	text-align:center;
+}
+
+.view .fixwidth
+{
+	width:100px;
+}
+
+.view .total,.view .head
+{
+	background:#C6DDFF;
+}
+
+.view .subtotal
+{
+	background:#afeeee;
+}
+
+.push
+{
+	padding-right:15px;
+}
+
+.important
+{
+	color:Red;
+}
+
+.deleteInfo,.detailinfo
+{
+	width:100%;
+	margin-bottom:15px;
+}
+
+.loginfo
+{
+	background:#FFFFFF;
+}
+
+.loginfo .label
+{
+	font-weight:bold;
+}
+
+.loginfo .value
+{
+	text-align:left;
+}
+
+.clear
+{
+	clear:both;
+}
+
+.deleteInfo
+{
+	background:#EEDDCC;
+}
+
+.detailinfo
+{
+	background:#FFFFFF;
+}
+
+.errors {
+	border: 2px solid red;
+	color: red;
+	margin: 5px 0px;
+	padding: 15px;
+	background: #fff url(../image/warning-sign.jpg) no-repeat 5px 50%;
+	min-height: 30px;
+}
+
+.errors ul {
+	margin: 0;
+	padding: 0;
+	margin-left: 80px;
+	list-style: square;
+}
+
+.createdpanel
+{
+	border:solid 2px #cdc9c9;
+	margin-bottom:15px;
+    behavior: url(border-radius-ie8.htc);
+    border-radius: 20px;
+}

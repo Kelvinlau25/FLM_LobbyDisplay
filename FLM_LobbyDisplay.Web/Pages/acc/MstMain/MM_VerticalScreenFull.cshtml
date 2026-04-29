@@ -1,0 +1,197 @@
+@page "/acc/MstMain/MM_VerticalScreenFull"
+@model FLM_LobbyDisplay.Pages.acc.MstMain.MMVerticalScreenFullModel
+@using System.Data
+@{ ViewData["Title"] = "Master Maintenance Screen Video"; }
+
+@section head {
+    <script type="text/javascript" src="@Url.Content("~/js/jquery.colorbox.js")"></script>
+    <link rel="stylesheet" href="@Url.Content("~/css/colorbox.css")" />
+    <style type="text/css">
+        body { font: 12px/1.2 Verdana, sans-serif; padding: 0 10px; }
+        a:link, a:visited { text-decoration: none; color: #416CE5; }
+        h2 { font-size: 13px; margin: 15px 0 0 0; }
+        .none { display: none; }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".youtube").colorbox({ iframe: true, innerWidth: 640, innerHeight: 390 });
+        });
+    </script>
+}
+
+@if (TempData["Alert"] != null)
+{
+    <script>alert('@Html.Raw(TempData["Alert"])');</script>
+}
+
+<h2>Master Maintenance Main Screen Video</h2>
+<hr /><br />
+<div style="display:block;float:right;">
+    <a href="@Url.Content("~/acc/MstMain/FullMainScreen_Dtl?action=1")">Add Item</a>
+</div>
+
+<table width="100%" class="tblbg" style="background:white;">
+    <tr class="title_bar">
+        <th style="width:1%"></th>
+        <th class="none">ID</th>
+        <th class="none">SCR_ID</th>
+        <th style="width:79%;text-align:left;">Video Files</th>
+        <th style="width:5%;text-align:left;">Seek Start</th>
+        <th style="width:5%;text-align:left;">Seek End</th>
+        <th style="width:5%;text-align:left;">Start Time</th>
+        <th style="width:5%;text-align:left;">End Time</th>
+        <th style="width:3%;"></th>
+    </tr>
+    @if (!Model.Grid1Rows.Any())
+    {
+        <tr><td colspan="9" style="text-align:center;font-weight:bold;color:red;">Record Not Found</td></tr>
+    }
+    @foreach (var row in Model.Grid1Rows)
+    {
+        <tr>
+            <td style="text-align:center;">
+                <form method="post" asp-page-handler="Delete" style="display:inline;" onsubmit="return confirm('Delete this video?');">
+                    <input type="hidden" name="id" value="@row["ID_MM_VIDEOS"]" />
+                    <input type="hidden" name="scrId" value="@row["SCR_ID"]" />
+                    <input type="image" src="@Url.Content("~/image/delete.gif")" alt="Delete" style="border:0;" />
+                </form>
+            </td>
+            <td class="none">@row["ID_MM_VIDEOS"]</td>
+            <td class="none">@row["SCR_ID"]</td>
+            <td><a class="youtube" href="@(Url.Content("~/acc/PopUp/ImgVideoPreview") + "?id=" + row["ATTACH_FILE"] + "&scr=1")" target="_blank">@row["ATTACH_FILE"]</a></td>
+            <td style="text-align:right;">@row["SEEK_START"]</td>
+            <td style="text-align:right;">@row["SEEK_END"]</td>
+            <td style="text-align:center;">@(row["PERIOD_START"].ToString()!.Length > 3 ? row["PERIOD_START"].ToString()![..^3] : row["PERIOD_START"])</td>
+            <td style="text-align:center;">@(row["PERIOD_END"].ToString()!.Length > 3 ? row["PERIOD_END"].ToString()![..^3] : row["PERIOD_END"])</td>
+            <td style="text-align:center;">
+                <a class="btnEditcoqueue btn btn-primary" style="padding:2px 7px;margin-bottom:0px;" href="@(Url.Content("~/acc/MstMain/FullMainScreen_Dtl") + "?action=3&id=" + row["ID_MM_VIDEOS"])">Edit</a>
+            </td>
+        </tr>
+    }
+</table>
+<div style="display:block;float:right;">
+    <label>Go To:</label>
+    <select onchange="window.location='@Url.Content("~/acc/MstMain/MM_VerticalScreenFull?page1=")'+this.value">
+        <option value="1">1</option>
+    </select>
+</div>
+<br />
+<i>1 of 1</i>
+<br /><br />
+
+<h2>Master Maintenance Second Screen Upper Video</h2>
+<hr /><br />
+<div style="display:block;float:right;">
+    <a href="@Url.Content("~/acc/MstMain/Upper2ndScreen_Dtl?action=1")">Add Item</a>
+</div>
+
+<table width="100%" class="tblbg" style="background:white;">
+    <tr class="title_bar">
+        <th style="width:1%"></th>
+        <th class="none">ID</th>
+        <th class="none">SCR_ID</th>
+        <th style="width:79%;text-align:left;">Video Files</th>
+        <th style="width:5%;text-align:left;">Seek Start</th>
+        <th style="width:5%;text-align:left;">Seek End</th>
+        <th style="width:5%;text-align:left;">Start Time</th>
+        <th style="width:5%;text-align:left;">End Time</th>
+        <th style="width:3%;"></th>
+    </tr>
+    @if (!Model.Grid2Rows.Any())
+    {
+        <tr><td colspan="9" style="text-align:center;font-weight:bold;color:red;">Record Not Found</td></tr>
+    }
+    @foreach (var row in Model.Grid2Rows)
+    {
+        <tr>
+            <td style="text-align:center;">
+                <form method="post" asp-page-handler="Delete" style="display:inline;" onsubmit="return confirm('Delete this video?');">
+                    <input type="hidden" name="id" value="@row["ID_MM_VIDEOS"]" />
+                    <input type="hidden" name="scrId" value="@row["SCR_ID"]" />
+                    <input type="image" src="@Url.Content("~/image/delete.gif")" alt="Delete" style="border:0;" />
+                </form>
+            </td>
+            <td class="none">@row["ID_MM_VIDEOS"]</td>
+            <td class="none">@row["SCR_ID"]</td>
+            <td><a class="youtube" href="@(Url.Content("~/acc/PopUp/ImgVideoPreview") + "?id=" + row["ATTACH_FILE"] + "&scr=2")" target="_blank">@row["ATTACH_FILE"]</a></td>
+            <td style="text-align:right;">@row["SEEK_START"]</td>
+            <td style="text-align:right;">@row["SEEK_END"]</td>
+            <td style="text-align:center;">@(row["PERIOD_START"].ToString()!.Length > 3 ? row["PERIOD_START"].ToString()![..^3] : row["PERIOD_START"])</td>
+            <td style="text-align:center;">@(row["PERIOD_END"].ToString()!.Length > 3 ? row["PERIOD_END"].ToString()![..^3] : row["PERIOD_END"])</td>
+            <td style="text-align:center;">
+                <a class="btnEditcoqueue btn btn-primary" style="padding:2px 7px;margin-bottom:0px;" href="@(Url.Content("~/acc/MstMain/Upper2ndScreen_Dtl") + "?action=3&id=" + row["ID_MM_VIDEOS"])">Edit</a>
+            </td>
+        </tr>
+    }
+</table>
+<div style="display:block;float:right;">
+    <label>Go To:</label>
+    <select onchange="window.location='@Url.Content("~/acc/MstMain/MM_VerticalScreenFull?page2=")'+this.value">
+        <option value="1">1</option>
+    </select>
+</div>
+<br />
+<i>1 of 1</i>
+<br /><br />
+
+<h2>Master Maintenance Second Screen Lower Video</h2>
+<hr /><br />
+<div style="display:block;float:right;">
+    <a href="@Url.Content("~/acc/MstMain/Lower2ndScreen_Dtl?action=1")">Add Item</a>
+</div>
+
+<table width="100%" class="tblbg" style="background:white;">
+    <tr class="title_bar">
+        <th style="width:1%"></th>
+        <th class="none">ID</th>
+        <th class="none">SCR_ID</th>
+        <th style="width:79%;text-align:left;">Video Files</th>
+        <th style="width:5%;text-align:left;">Seek Start</th>
+        <th style="width:5%;text-align:left;">Seek End</th>
+        <th style="width:5%;text-align:left;">Start Time</th>
+        <th style="width:5%;text-align:left;">End Time</th>
+        <th style="width:3%;"></th>
+    </tr>
+    @if (!Model.Grid3Rows.Any())
+    {
+        <tr><td colspan="9" style="text-align:center;font-weight:bold;color:red;">Record Not Found</td></tr>
+    }
+    @foreach (var row in Model.Grid3Rows)
+    {
+        <tr>
+            <td style="text-align:center;">
+                <form method="post" asp-page-handler="Delete" style="display:inline;" onsubmit="return confirm('Delete this video?');">
+                    <input type="hidden" name="id" value="@row["ID_MM_VIDEOS"]" />
+                    <input type="hidden" name="scrId" value="@row["SCR_ID"]" />
+                    <input type="image" src="@Url.Content("~/image/delete.gif")" alt="Delete" style="border:0;" />
+                </form>
+            </td>
+            <td class="none">@row["ID_MM_VIDEOS"]</td>
+            <td class="none">@row["SCR_ID"]</td>
+            <td><a class="youtube" href="@(Url.Content("~/acc/PopUp/ImgVideoPreview") + "?id=" + row["ATTACH_FILE"] + "&scr=3")" target="_blank">@row["ATTACH_FILE"]</a></td>
+            <td style="text-align:right;">@row["SEEK_START"]</td>
+            <td style="text-align:right;">@row["SEEK_END"]</td>
+            <td style="text-align:center;">@(row["PERIOD_START"].ToString()!.Length > 3 ? row["PERIOD_START"].ToString()![..^3] : row["PERIOD_START"])</td>
+            <td style="text-align:center;">@(row["PERIOD_END"].ToString()!.Length > 3 ? row["PERIOD_END"].ToString()![..^3] : row["PERIOD_END"])</td>
+            <td style="text-align:center;">
+                <a class="btnEditcoqueue btn btn-primary" style="padding:2px 7px;margin-bottom:0px;" href="@(Url.Content("~/acc/MstMain/Lower2ndScreen_Dtl") + "?action=3&id=" + row["ID_MM_VIDEOS"])">Edit</a>
+            </td>
+        </tr>
+    }
+</table>
+<div style="display:block;float:right;">
+    <label>Go To:</label>
+    <select onchange="window.location='@Url.Content("~/acc/MstMain/MM_VerticalScreenFull?page3=")'+this.value">
+        <option value="1">1</option>
+    </select>
+</div>
+<br />
+<i>1 of 1</i>
+<br /><br />
+
+<hr /><br />
+<strong>Scrolling Text:</strong>&nbsp;
+<form method="post" asp-page-handler="SaveScrollingText">
+    <textarea name="footerText" style="width:90%;">@Model.ScrollingText</textarea>
+    <button type="submit" style="height:26px;vertical-align:top;float:right;">Save</button>
+</form>

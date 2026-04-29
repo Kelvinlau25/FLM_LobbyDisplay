@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>FLM_LobbyDisplay</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="FluentFTP" Version="50.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Library\Library.Root\Library.Root.csproj" />
+    <ProjectReference Include="..\Library\Library.Common\Library.Common.csproj" />
+    <ProjectReference Include="..\Library\Library.Control.Base\Library.Control.Base.csproj" />
+  </ItemGroup>
+</Project>

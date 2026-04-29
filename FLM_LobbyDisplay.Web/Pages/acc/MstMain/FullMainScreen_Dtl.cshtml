@@ -1,0 +1,83 @@
+@page "/acc/MstMain/FullMainScreen_Dtl"
+@model FLM_LobbyDisplay.Pages.acc.MstMain.FullMainScreenDtlModel
+@{ ViewData["Title"] = Model.MainTitle; }
+
+@section head {
+    <style type="text/css">
+        .style1 { width: 70px; }
+        .style7 { width: 407px; }
+        .style7 input { width: 700px; }
+        .style6 { height: 30px; }
+        .styler { color: Red; }
+    </style>
+}
+
+@if (TempData["Alert"] != null)
+{
+    <script>alert('@Html.Raw(TempData["Alert"])');</script>
+}
+
+<h2>@Model.MainTitle</h2>
+<hr />
+
+<form method="post" enctype="multipart/form-data">
+    <table class="detailinfo" width="100%">
+        <tr>
+            <td class="style1"><span class="styler">*</span> Attach File:</td>
+            <td class="style7">
+                @if (Model.Action == 1)
+                {
+                    <input type="file" name="FileUpload" accept=".mp4" />
+                }
+                else if (Model.VideoRow != null)
+                {
+                    <span>@Model.VideoRow["ATTACH_FILE"]</span>
+                }
+            </td>
+        </tr>
+        <tr>
+            <td class="style1"><span class="styler">*</span> Seek Start:</td>
+            <td class="style6">
+                <input type="text" name="SeekStart" value="@(Model.VideoRow?["SEEK_START"] ?? "0")" style="text-align:right;" />
+                <span style="font-size:x-small;color:#FF0000;">Leave Value as Zero for Default Setting.</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="style1"><span class="styler">*</span> Seek End:</td>
+            <td class="style6">
+                <input type="text" name="SeekEnd" value="@(Model.VideoRow?["SEEK_END"] ?? "0")" style="text-align:right;" />
+                <span style="font-size:x-small;color:#FF0000;">Leave Value as Zero for Default Setting.</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="style1"><span class="styler">*</span> Start Time:</td>
+            <td class="style6">
+                <input type="text" name="PeriodStart" value="@(Model.VideoRow != null ? Model.VideoRow["PERIOD_START"].ToString()![..^3] : "00:00")" style="text-align:right;" />
+                <span style="font-size:x-small;color:#FF0000;">Leave Value as 00:00 for Default Setting. (24hr Time Format ##:##)</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="style1"><span class="styler">*</span> End Time:</td>
+            <td class="style6">
+                <input type="text" name="PeriodEnd" value="@(Model.VideoRow != null ? Model.VideoRow["PERIOD_END"].ToString()![..^3] : "23:59")" style="text-align:right;" />
+                <span style="font-size:x-small;color:#FF0000;">Leave Value as 23:59 for Default Setting. (24hr Time Format ##:##)</span>
+            </td>
+        </tr>
+    </table>
+
+    @if (Model.VideoRow != null)
+    {
+        <table class="detailinfo" width="100%">
+            <tr><td class="style1">Created By:</td><td class="style7">@Model.VideoRow["CREATED_BY"]</td></tr>
+            <tr><td class="style1">Created Date:</td><td class="style7">@Model.VideoRow["CREATED_DATE"]</td></tr>
+            <tr><td class="style1">Created Loc:</td><td class="style7">@Model.VideoRow["CREATED_LOC"]</td></tr>
+            <tr><td class="style1">Updated By:</td><td class="style7">@Model.VideoRow["UPDATED_BY"]</td></tr>
+            <tr><td class="style1">Updated Date:</td><td class="style7">@Model.VideoRow["UPDATED_DATE"]</td></tr>
+            <tr><td class="style1">Updated Loc:</td><td class="style7">@Model.VideoRow["UPDATED_LOC"]</td></tr>
+        </table>
+    }
+
+    <br />
+    <input type="submit" value="Submit" />
+    <input type="button" value="Back" onclick="window.location='@Url.Content("~/acc/MstMain/MM_VerticalScreenFull")'" />
+</form>

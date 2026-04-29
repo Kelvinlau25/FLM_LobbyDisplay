@@ -1,0 +1,608 @@
+wwwroot\.gitkeep
+wwwroot\acc\LobbyDisplay\.gitkeep
+wwwroot\acc\LobbyDisplay\css\.gitkeep
+wwwroot\acc\LobbyDisplay\css\marquee.css
+wwwroot\acc\LobbyDisplay\mainscr\.gitkeep
+wwwroot\acc\LobbyDisplay\mainscr\20200212112948_corona virus.mp4
+wwwroot\acc\LobbyDisplay\mainscr\20200406150334_coronavirus slide apr2020 - potrait.mp4
+wwwroot\acc\LobbyDisplay\mainscr\20200623111437_film engineering mission - vertical.mp4
+wwwroot\acc\LobbyDisplay\mainscr\20201019135349_engineering 10 basic rules.mp4
+wwwroot\acc\LobbyDisplay\mainscr\20210520174533_fy20 result (vertical).mp4
+wwwroot\acc\LobbyDisplay\secscrbtm\.gitkeep
+wwwroot\acc\LobbyDisplay\secscrtop\.gitkeep
+wwwroot\acc\LobbyDisplay2\.gitkeep
+wwwroot\acc\LobbyDisplay2\css\marquee.css
+wwwroot\acc\LobbyDisplay2\mainscr\.gitkeep
+wwwroot\acc\MstMain\.gitkeep
+wwwroot\acc\MstMainLobby2\.gitkeep
+wwwroot\acc\MstMainPan\.gitkeep
+wwwroot\acc\PantryDisplay\.gitkeep
+wwwroot\acc\PantryDisplay\css\marquee.css
+wwwroot\acc\PantryDisplay\mainscr\.gitkeep
+wwwroot\acc\PantryDisplay\mainscr\20200212113501_corona virus.mp4
+wwwroot\acc\PantryDisplay\secscrbtm\.gitkeep
+wwwroot\acc\PantryDisplay\secscrtop\.gitkeep
+wwwroot\css\animate.css
+wwwroot\css\base.css
+wwwroot\css\bootstrap.css
+wwwroot\css\bootstrap.min.css
+wwwroot\css\bootstrapbycs.css
+wwwroot\css\bootstrap-theme.css
+wwwroot\css\bootstrap-theme.min.css
+wwwroot\css\calendar-blue.css
+wwwroot\css\Cockpit_Style.css
+wwwroot\css\CockPitStyle.css
+wwwroot\css\colorbox.css
+wwwroot\css\common.css
+wwwroot\css\custom-article.css
+wwwroot\css\custom-comment.css
+wwwroot\css\custom-news.css
+wwwroot\css\DateTimePicker.css
+wwwroot\css\Detail.css
+wwwroot\css\DMS_Style.css
+wwwroot\css\docstyle.css
+wwwroot\css\docstyle1.css
+wwwroot\css\eng_machinetro.css
+wwwroot\css\eng_machinetro_new.css
+wwwroot\css\eng_machinetrouble.css
+wwwroot\css\eng_machinetrouble2.css
+wwwroot\css\font-awesome.css
+wwwroot\css\Header.css
+wwwroot\css\INQ_ProcessCondition.css
+wwwroot\css\INQ_productivity.css
+wwwroot\css\INQ_productivity_makeup.css
+wwwroot\css\INQ_productivity2.css
+wwwroot\css\INQ_productivity3.css
+wwwroot\css\jquery.datetimepicker.css
+wwwroot\css\jquery.fancybox.css
+wwwroot\css\jquery.mmenu.all.css
+wwwroot\css\jquery.ui.timepicker.css
+wwwroot\css\jquery-ui-1.7.3.custom.css
+wwwroot\css\jquery-ui-1.8.19.custom.css
+wwwroot\css\jsMobile.css
+wwwroot\css\jsMobileCone.css
+wwwroot\css\KPI_Img_Lvl_Position.css
+wwwroot\css\lobbydisplayresp.css
+wwwroot\css\Menu.css
+wwwroot\css\ntip.css
+wwwroot\css\overcast\jquery-ui-1.8.18.custom.css
+wwwroot\css\overcast\jquery-ui-1.8.22.custom.css
+wwwroot\css\overcast\jquery-ui-1.8.9.custom.min.js
+wwwroot\css\PenGroup.css
+wwwroot\css\prodSystem.css
+wwwroot\css\SignIn.css
+wwwroot\css\speedometer.css
+wwwroot\css\style.css
+wwwroot\css\stylesheetmsdn.css
+wwwroot\css\tgmip_style.css
+wwwroot\css\timepicki.css
+wwwroot\css\tinybox.css
+wwwroot\css\try.css
+wwwroot\css\try1.css
+wwwroot\css\video.css
+wwwroot\css\video-js.css
+wwwroot\css\wickedpicker.css
+wwwroot\css\wickedpicker.min.css
+wwwroot\image\0.png
+wwwroot\image\1.png
+wwwroot\image\attach.png
+wwwroot\image\button-login.gif
+wwwroot\image\cal.gif
+wwwroot\image\close-button.png
+wwwroot\image\delete.gif
+wwwroot\image\delete1.gif
+wwwroot\image\down1.gif
+wwwroot\image\file_delete.png
+wwwroot\image\file_delete_s.png
+wwwroot\image\file_pdf.png
+wwwroot\image\first.gif
+wwwroot\image\header1.jpg
+wwwroot\image\HeaderMain.png
+wwwroot\image\HeaderMain2.png
+wwwroot\image\last.gif
+wwwroot\image\logout.gif
+wwwroot\image\magnify.cur
+wwwroot\image\next.gif
+wwwroot\image\OneNote Table Of Contents.onetoc2
+wwwroot\image\prior.gif
+wwwroot\image\Search_22_22.png
+wwwroot\image\SmallCalendar.gif
+wwwroot\image\Thumbs.db
+wwwroot\image\up1.gif
+wwwroot\js\.gitkeep
+wwwroot\js\common.js
+wwwroot\js\commonsearch.js
+wwwroot\js\ext-all.js
+wwwroot\js\ext-base.js
+wwwroot\js\jquery.colorbox.js
+wwwroot\js\jquery.mtz.monthpicker.js
+wwwroot\js\jquery.scrollabletab.js
+wwwroot\js\jquery-1.4.2.min.js
+wwwroot\js\jquery-1.4.3.js
+wwwroot\js\jquery-1.7.2.min.js
+wwwroot\js\jquery-1.9.1.js
+wwwroot\js\jquery-ui-1.10.3.custom.js
+wwwroot\js\jquery-ui-1.8.22.custom.min.js
+wwwroot\js\jquery-ui-1.8.9.custom.min.js
+wwwroot\README-static-assets.md
+wwwroot\resources\css\borders.css
+wwwroot\resources\css\box.css
+wwwroot\resources\css\button.css
+wwwroot\resources\css\combo.css
+wwwroot\resources\css\core.css
+wwwroot\resources\css\date-picker.css
+wwwroot\resources\css\dd.css
+wwwroot\resources\css\debug.css
+wwwroot\resources\css\dialog.css
+wwwroot\resources\css\editor.css
+wwwroot\resources\css\ext-all.css
+wwwroot\resources\css\form.css
+wwwroot\resources\css\grid.css
+wwwroot\resources\css\layout.css
+wwwroot\resources\css\menu.css
+wwwroot\resources\css\OneNote Table Of Contents.onetoc2
+wwwroot\resources\css\panel.css
+wwwroot\resources\css\progress.css
+wwwroot\resources\css\qtips.css
+wwwroot\resources\css\README.txt
+wwwroot\resources\css\reset.css
+wwwroot\resources\css\reset-min.css
+wwwroot\resources\css\resizable.css
+wwwroot\resources\css\slider.css
+wwwroot\resources\css\tabs.css
+wwwroot\resources\css\toolbar.css
+wwwroot\resources\css\tree.css
+wwwroot\resources\css\window.css
+wwwroot\resources\css\xtheme-gray.css
+wwwroot\resources\css\xtheme-slate.css
+wwwroot\resources\images\default\box\corners.gif
+wwwroot\resources\images\default\box\corners-blue.gif
+wwwroot\resources\images\default\box\l.gif
+wwwroot\resources\images\default\box\l-blue.gif
+wwwroot\resources\images\default\box\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\box\r.gif
+wwwroot\resources\images\default\box\r-blue.gif
+wwwroot\resources\images\default\box\tb.gif
+wwwroot\resources\images\default\box\tb-blue.gif
+wwwroot\resources\images\default\box\Thumbs.db
+wwwroot\resources\images\default\button\btn-arrow.gif
+wwwroot\resources\images\default\button\btn-sprite.gif
+wwwroot\resources\images\default\button\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\button\Thumbs.db
+wwwroot\resources\images\default\dd\drop-add.gif
+wwwroot\resources\images\default\dd\drop-no.gif
+wwwroot\resources\images\default\dd\drop-yes.gif
+wwwroot\resources\images\default\dd\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\dd\Thumbs.db
+wwwroot\resources\images\default\editor\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\editor\tb-sprite.gif
+wwwroot\resources\images\default\editor\Thumbs.db
+wwwroot\resources\images\default\form\checkbox.gif
+wwwroot\resources\images\default\form\clear-trigger.gif
+wwwroot\resources\images\default\form\clear-trigger.psd
+wwwroot\resources\images\default\form\date-trigger.gif
+wwwroot\resources\images\default\form\date-trigger.psd
+wwwroot\resources\images\default\form\error-tip-corners.gif
+wwwroot\resources\images\default\form\exclamation.gif
+wwwroot\resources\images\default\form\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\form\radio.gif
+wwwroot\resources\images\default\form\search-trigger.gif
+wwwroot\resources\images\default\form\search-trigger.psd
+wwwroot\resources\images\default\form\text-bg.gif
+wwwroot\resources\images\default\form\Thumbs.db
+wwwroot\resources\images\default\form\trigger.gif
+wwwroot\resources\images\default\form\trigger.psd
+wwwroot\resources\images\default\form\trigger-tpl.gif
+wwwroot\resources\images\default\gradient-bg.gif
+wwwroot\resources\images\default\grid\arrow-left-white.gif
+wwwroot\resources\images\default\grid\arrow-right-white.gif
+wwwroot\resources\images\default\grid\col-move-bottom.gif
+wwwroot\resources\images\default\grid\col-move-top.gif
+wwwroot\resources\images\default\grid\columns.gif
+wwwroot\resources\images\default\grid\dirty.gif
+wwwroot\resources\images\default\grid\done.gif
+wwwroot\resources\images\default\grid\drop-no.gif
+wwwroot\resources\images\default\grid\drop-yes.gif
+wwwroot\resources\images\default\grid\footer-bg.gif
+wwwroot\resources\images\default\grid\grid3-hd-btn.gif
+wwwroot\resources\images\default\grid\grid3-hrow.gif
+wwwroot\resources\images\default\grid\grid3-hrow-over.gif
+wwwroot\resources\images\default\grid\grid3-special-col-bg.gif
+wwwroot\resources\images\default\grid\grid3-special-col-sel-bg.gif
+wwwroot\resources\images\default\grid\grid-blue-hd.gif
+wwwroot\resources\images\default\grid\grid-blue-split.gif
+wwwroot\resources\images\default\grid\grid-hrow.gif
+wwwroot\resources\images\default\grid\grid-loading.gif
+wwwroot\resources\images\default\grid\grid-split.gif
+wwwroot\resources\images\default\grid\grid-vista-hd.gif
+wwwroot\resources\images\default\grid\group-by.gif
+wwwroot\resources\images\default\grid\group-expand-sprite.gif
+wwwroot\resources\images\default\grid\hd-pop.gif
+wwwroot\resources\images\default\grid\hmenu-asc.gif
+wwwroot\resources\images\default\grid\hmenu-desc.gif
+wwwroot\resources\images\default\grid\hmenu-lock.gif
+wwwroot\resources\images\default\grid\hmenu-lock.png
+wwwroot\resources\images\default\grid\hmenu-unlock.gif
+wwwroot\resources\images\default\grid\hmenu-unlock.png
+wwwroot\resources\images\default\grid\invalid_line.gif
+wwwroot\resources\images\default\grid\loading.gif
+wwwroot\resources\images\default\grid\mso-hd.gif
+wwwroot\resources\images\default\grid\nowait.gif
+wwwroot\resources\images\default\grid\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\grid\page-first.gif
+wwwroot\resources\images\default\grid\page-first-disabled.gif
+wwwroot\resources\images\default\grid\page-last.gif
+wwwroot\resources\images\default\grid\page-last-disabled.gif
+wwwroot\resources\images\default\grid\page-next.gif
+wwwroot\resources\images\default\grid\page-next-disabled.gif
+wwwroot\resources\images\default\grid\page-prev.gif
+wwwroot\resources\images\default\grid\page-prev-disabled.gif
+wwwroot\resources\images\default\grid\pick-button.gif
+wwwroot\resources\images\default\grid\refresh.gif
+wwwroot\resources\images\default\grid\row-check-sprite.gif
+wwwroot\resources\images\default\grid\row-expand-sprite.gif
+wwwroot\resources\images\default\grid\row-over.gif
+wwwroot\resources\images\default\grid\row-sel.gif
+wwwroot\resources\images\default\grid\sort_asc.gif
+wwwroot\resources\images\default\grid\sort_desc.gif
+wwwroot\resources\images\default\grid\Thumbs.db
+wwwroot\resources\images\default\grid\wait.gif
+wwwroot\resources\images\default\layout\collapse.gif
+wwwroot\resources\images\default\layout\expand.gif
+wwwroot\resources\images\default\layout\gradient-bg.gif
+wwwroot\resources\images\default\layout\mini-bottom.gif
+wwwroot\resources\images\default\layout\mini-left.gif
+wwwroot\resources\images\default\layout\mini-right.gif
+wwwroot\resources\images\default\layout\mini-top.gif
+wwwroot\resources\images\default\layout\ns-collapse.gif
+wwwroot\resources\images\default\layout\ns-expand.gif
+wwwroot\resources\images\default\layout\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\layout\panel-close.gif
+wwwroot\resources\images\default\layout\panel-title-bg.gif
+wwwroot\resources\images\default\layout\panel-title-light-bg.gif
+wwwroot\resources\images\default\layout\stick.gif
+wwwroot\resources\images\default\layout\stuck.gif
+wwwroot\resources\images\default\layout\tab-close.gif
+wwwroot\resources\images\default\layout\tab-close-on.gif
+wwwroot\resources\images\default\layout\Thumbs.db
+wwwroot\resources\images\default\menu\checked.gif
+wwwroot\resources\images\default\menu\group-checked.gif
+wwwroot\resources\images\default\menu\item-over.gif
+wwwroot\resources\images\default\menu\menu.gif
+wwwroot\resources\images\default\menu\menu-parent.gif
+wwwroot\resources\images\default\menu\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\menu\Thumbs.db
+wwwroot\resources\images\default\menu\unchecked.gif
+wwwroot\resources\images\default\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\panel\corners-sprite.gif
+wwwroot\resources\images\default\panel\left-right.gif
+wwwroot\resources\images\default\panel\light-hd.gif
+wwwroot\resources\images\default\panel\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\panel\Thumbs.db
+wwwroot\resources\images\default\panel\tool-sprites.gif
+wwwroot\resources\images\default\panel\tool-sprite-tpl.gif
+wwwroot\resources\images\default\panel\tools-sprites-trans.gif
+wwwroot\resources\images\default\panel\top-bottom.gif
+wwwroot\resources\images\default\panel\top-bottom.png
+wwwroot\resources\images\default\panel\white-corners-sprite.gif
+wwwroot\resources\images\default\panel\white-left-right.gif
+wwwroot\resources\images\default\panel\white-top-bottom.gif
+wwwroot\resources\images\default\progress\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\progress\progress-bg.gif
+wwwroot\resources\images\default\qtip\bg.gif
+wwwroot\resources\images\default\qtip\close.gif
+wwwroot\resources\images\default\qtip\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\qtip\tip-sprite.gif
+wwwroot\resources\images\default\s.gif
+wwwroot\resources\images\default\shadow.png
+wwwroot\resources\images\default\shadow-c.png
+wwwroot\resources\images\default\shadow-c.psd
+wwwroot\resources\images\default\shadow-lr.png
+wwwroot\resources\images\default\shared\blue-loading.gif
+wwwroot\resources\images\default\shared\calendar.gif
+wwwroot\resources\images\default\shared\glass-bg.gif
+wwwroot\resources\images\default\shared\hd-sprite.gif
+wwwroot\resources\images\default\shared\large-loading.gif
+wwwroot\resources\images\default\shared\left-btn.gif
+wwwroot\resources\images\default\shared\loading-balls.gif
+wwwroot\resources\images\default\shared\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\shared\right-btn.gif
+wwwroot\resources\images\default\shared\warning.gif
+wwwroot\resources\images\default\sizer\e-handle.gif
+wwwroot\resources\images\default\sizer\e-handle-dark.gif
+wwwroot\resources\images\default\sizer\ne-handle.gif
+wwwroot\resources\images\default\sizer\ne-handle-dark.gif
+wwwroot\resources\images\default\sizer\nw-handle.gif
+wwwroot\resources\images\default\sizer\nw-handle-dark.gif
+wwwroot\resources\images\default\sizer\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\sizer\se-handle.gif
+wwwroot\resources\images\default\sizer\se-handle-dark.gif
+wwwroot\resources\images\default\sizer\s-handle.gif
+wwwroot\resources\images\default\sizer\s-handle-dark.gif
+wwwroot\resources\images\default\sizer\square.gif
+wwwroot\resources\images\default\sizer\sw-handle.gif
+wwwroot\resources\images\default\sizer\sw-handle-dark.gif
+wwwroot\resources\images\default\slider\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\slider\slider-bg.png
+wwwroot\resources\images\default\slider\slider-thumb.png
+wwwroot\resources\images\default\slider\slider-v-bg.png
+wwwroot\resources\images\default\slider\slider-v-thumb.png
+wwwroot\resources\images\default\tabs\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\tabs\scroller-bg.gif
+wwwroot\resources\images\default\tabs\scroll-left.gif
+wwwroot\resources\images\default\tabs\scroll-right.gif
+wwwroot\resources\images\default\tabs\tab-btm-inactive-left-bg.gif
+wwwroot\resources\images\default\tabs\tab-btm-inactive-right-bg.gif
+wwwroot\resources\images\default\tabs\tab-btm-left-bg.gif
+wwwroot\resources\images\default\tabs\tab-btm-right-bg.gif
+wwwroot\resources\images\default\tabs\tab-close.gif
+wwwroot\resources\images\default\tabs\tabs-sprite.gif
+wwwroot\resources\images\default\tabs\tab-strip-bg.gif
+wwwroot\resources\images\default\tabs\tab-strip-bg.png
+wwwroot\resources\images\default\tabs\tab-strip-btm-bg.gif
+wwwroot\resources\images\default\toolbar\bg.gif
+wwwroot\resources\images\default\toolbar\btn-arrow.gif
+wwwroot\resources\images\default\toolbar\btn-arrow-light.gif
+wwwroot\resources\images\default\toolbar\btn-over-bg.gif
+wwwroot\resources\images\default\toolbar\gray-bg.gif
+wwwroot\resources\images\default\toolbar\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\toolbar\tb-bg.gif
+wwwroot\resources\images\default\toolbar\tb-btn-sprite.gif
+wwwroot\resources\images\default\tree\arrows.gif
+wwwroot\resources\images\default\tree\drop-add.gif
+wwwroot\resources\images\default\tree\drop-between.gif
+wwwroot\resources\images\default\tree\drop-no.gif
+wwwroot\resources\images\default\tree\drop-over.gif
+wwwroot\resources\images\default\tree\drop-under.gif
+wwwroot\resources\images\default\tree\drop-yes.gif
+wwwroot\resources\images\default\tree\elbow.gif
+wwwroot\resources\images\default\tree\elbow-end.gif
+wwwroot\resources\images\default\tree\elbow-end-minus.gif
+wwwroot\resources\images\default\tree\elbow-end-minus-nl.gif
+wwwroot\resources\images\default\tree\elbow-end-plus.gif
+wwwroot\resources\images\default\tree\elbow-end-plus-nl.gif
+wwwroot\resources\images\default\tree\elbow-line.gif
+wwwroot\resources\images\default\tree\elbow-minus.gif
+wwwroot\resources\images\default\tree\elbow-minus-nl.gif
+wwwroot\resources\images\default\tree\elbow-plus.gif
+wwwroot\resources\images\default\tree\elbow-plus-nl.gif
+wwwroot\resources\images\default\tree\folder.gif
+wwwroot\resources\images\default\tree\folder-open.gif
+wwwroot\resources\images\default\tree\leaf.gif
+wwwroot\resources\images\default\tree\loading.gif
+wwwroot\resources\images\default\tree\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\tree\s.gif
+wwwroot\resources\images\default\window\icon-error.gif
+wwwroot\resources\images\default\window\icon-info.gif
+wwwroot\resources\images\default\window\icon-question.gif
+wwwroot\resources\images\default\window\icon-warning.gif
+wwwroot\resources\images\default\window\left-corners.png
+wwwroot\resources\images\default\window\left-corners.psd
+wwwroot\resources\images\default\window\left-right.png
+wwwroot\resources\images\default\window\left-right.psd
+wwwroot\resources\images\default\window\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\default\window\right-corners.png
+wwwroot\resources\images\default\window\right-corners.psd
+wwwroot\resources\images\default\window\top-bottom.png
+wwwroot\resources\images\default\window\top-bottom.psd
+wwwroot\resources\images\gray\button\btn-arrow.gif
+wwwroot\resources\images\gray\button\btn-sprite.gif
+wwwroot\resources\images\gray\button\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\button\Thumbs.db
+wwwroot\resources\images\gray\gradient-bg.gif
+wwwroot\resources\images\gray\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\panel\corners-sprite.gif
+wwwroot\resources\images\gray\panel\left-right.gif
+wwwroot\resources\images\gray\panel\light-hd.gif
+wwwroot\resources\images\gray\panel\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\panel\Thumbs.db
+wwwroot\resources\images\gray\panel\tool-sprites.gif
+wwwroot\resources\images\gray\panel\tool-sprite-tpl.gif
+wwwroot\resources\images\gray\panel\tools-sprites-trans.gif
+wwwroot\resources\images\gray\panel\top-bottom.gif
+wwwroot\resources\images\gray\panel\top-bottom.png
+wwwroot\resources\images\gray\panel\white-corners-sprite.gif
+wwwroot\resources\images\gray\panel\white-left-right.gif
+wwwroot\resources\images\gray\panel\white-top-bottom.gif
+wwwroot\resources\images\gray\qtip\bg.gif
+wwwroot\resources\images\gray\qtip\close.gif
+wwwroot\resources\images\gray\qtip\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\qtip\Thumbs.db
+wwwroot\resources\images\gray\qtip\tip-sprite.gif
+wwwroot\resources\images\gray\s.gif
+wwwroot\resources\images\gray\tabs\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\tabs\scroller-bg.gif
+wwwroot\resources\images\gray\tabs\scroll-left.gif
+wwwroot\resources\images\gray\tabs\scroll-right.gif
+wwwroot\resources\images\gray\tabs\tab-btm-inactive-left-bg.gif
+wwwroot\resources\images\gray\tabs\tab-btm-inactive-right-bg.gif
+wwwroot\resources\images\gray\tabs\tab-btm-left-bg.gif
+wwwroot\resources\images\gray\tabs\tab-btm-right-bg.gif
+wwwroot\resources\images\gray\tabs\tab-close.gif
+wwwroot\resources\images\gray\tabs\tabs-sprite.gif
+wwwroot\resources\images\gray\tabs\tab-strip-bg.gif
+wwwroot\resources\images\gray\tabs\tab-strip-bg.png
+wwwroot\resources\images\gray\tabs\tab-strip-btm-bg.gif
+wwwroot\resources\images\gray\tabs\Thumbs.db
+wwwroot\resources\images\gray\Thumbs.db
+wwwroot\resources\images\gray\toolbar\bg.gif
+wwwroot\resources\images\gray\toolbar\btn-arrow.gif
+wwwroot\resources\images\gray\toolbar\btn-arrow-light.gif
+wwwroot\resources\images\gray\toolbar\btn-over-bg.gif
+wwwroot\resources\images\gray\toolbar\gray-bg.gif
+wwwroot\resources\images\gray\toolbar\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\toolbar\tb-bg.gif
+wwwroot\resources\images\gray\toolbar\tb-btn-sprite.gif
+wwwroot\resources\images\gray\toolbar\Thumbs.db
+wwwroot\resources\images\gray\window\icon-error.gif
+wwwroot\resources\images\gray\window\icon-info.gif
+wwwroot\resources\images\gray\window\icon-question.gif
+wwwroot\resources\images\gray\window\icon-warning.gif
+wwwroot\resources\images\gray\window\left-corners.png
+wwwroot\resources\images\gray\window\left-corners.pspimage
+wwwroot\resources\images\gray\window\left-right.png
+wwwroot\resources\images\gray\window\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\gray\window\right-corners.png
+wwwroot\resources\images\gray\window\Thumbs.db
+wwwroot\resources\images\gray\window\top-bottom.png
+wwwroot\resources\images\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\box\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\box\tb-blue.gif
+wwwroot\resources\images\slate\button\btn-arrow.gif
+wwwroot\resources\images\slate\button\btn-sprite.gif
+wwwroot\resources\images\slate\button\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\editor\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\editor\tb-sprite.gif
+wwwroot\resources\images\slate\form\checkbox.gif
+wwwroot\resources\images\slate\form\clear-trigger.gif
+wwwroot\resources\images\slate\form\date-trigger.gif
+wwwroot\resources\images\slate\form\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\form\radio.gif
+wwwroot\resources\images\slate\form\search-trigger.gif
+wwwroot\resources\images\slate\form\trigger.gif
+wwwroot\resources\images\slate\form\trigger-tpl.gif
+wwwroot\resources\images\slate\grid\grid3-hd-btn.gif
+wwwroot\resources\images\slate\grid\grid3-hrow.gif
+wwwroot\resources\images\slate\grid\grid3-hrow-over.gif
+wwwroot\resources\images\slate\grid\grid3-special-col-bg.gif
+wwwroot\resources\images\slate\grid\grid3-special-col-sel-bg.gif
+wwwroot\resources\images\slate\grid\grid-split.gif
+wwwroot\resources\images\slate\grid\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\grid\page-first.gif
+wwwroot\resources\images\slate\grid\page-first-disabled.gif
+wwwroot\resources\images\slate\grid\page-last.gif
+wwwroot\resources\images\slate\grid\page-last-disabled.gif
+wwwroot\resources\images\slate\grid\page-next.gif
+wwwroot\resources\images\slate\grid\page-prev.gif
+wwwroot\resources\images\slate\grid\refresh.gif
+wwwroot\resources\images\slate\grid\sort_asc.gif
+wwwroot\resources\images\slate\grid\sort_desc.gif
+wwwroot\resources\images\slate\menu\checked.gif
+wwwroot\resources\images\slate\menu\group-checked.gif
+wwwroot\resources\images\slate\menu\item-over.gif
+wwwroot\resources\images\slate\menu\menu.gif
+wwwroot\resources\images\slate\menu\menu-parent.gif
+wwwroot\resources\images\slate\menu\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\menu\unchecked.gif
+wwwroot\resources\images\slate\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\panel\corners-sprite.gif
+wwwroot\resources\images\slate\panel\left-right.gif
+wwwroot\resources\images\slate\panel\light-hd.gif
+wwwroot\resources\images\slate\panel\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\panel\tool-sprites.gif
+wwwroot\resources\images\slate\panel\tool-sprite-tpl.gif
+wwwroot\resources\images\slate\panel\top-bottom.gif
+wwwroot\resources\images\slate\panel\top-bottom.png
+wwwroot\resources\images\slate\panel\white-corners-sprite.gif
+wwwroot\resources\images\slate\panel\white-left-right.gif
+wwwroot\resources\images\slate\panel\white-top-bottom.gif
+wwwroot\resources\images\slate\progress\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\progress\progress-bg.gif
+wwwroot\resources\images\slate\qtip\bg.gif
+wwwroot\resources\images\slate\qtip\close.gif
+wwwroot\resources\images\slate\qtip\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\qtip\tip-sprite.gif
+wwwroot\resources\images\slate\shared\glass-bg.gif
+wwwroot\resources\images\slate\shared\hd-sprite.gif
+wwwroot\resources\images\slate\shared\left-btn.gif
+wwwroot\resources\images\slate\shared\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\shared\right-btn.gif
+wwwroot\resources\images\slate\sizer\e-handle.gif
+wwwroot\resources\images\slate\sizer\e-handle-dark.gif
+wwwroot\resources\images\slate\sizer\ne-handle.gif
+wwwroot\resources\images\slate\sizer\ne-handle-dark.gif
+wwwroot\resources\images\slate\sizer\nw-handle.gif
+wwwroot\resources\images\slate\sizer\nw-handle-dark.gif
+wwwroot\resources\images\slate\sizer\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\sizer\se-handle.gif
+wwwroot\resources\images\slate\sizer\se-handle-dark.gif
+wwwroot\resources\images\slate\sizer\s-handle.gif
+wwwroot\resources\images\slate\sizer\s-handle-dark.gif
+wwwroot\resources\images\slate\sizer\square.gif
+wwwroot\resources\images\slate\sizer\sw-handle.gif
+wwwroot\resources\images\slate\sizer\sw-handle-dark.gif
+wwwroot\resources\images\slate\slider\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\slider\slider-bg.png
+wwwroot\resources\images\slate\slider\slider-thumb.png
+wwwroot\resources\images\slate\slider\slider-v-bg.png
+wwwroot\resources\images\slate\slider\slider-v-thumb.png
+wwwroot\resources\images\slate\tabs\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\tabs\scroller-bg.gif
+wwwroot\resources\images\slate\tabs\scroll-left.gif
+wwwroot\resources\images\slate\tabs\scroll-right.gif
+wwwroot\resources\images\slate\tabs\tab-btm-inactive-left-bg.gif
+wwwroot\resources\images\slate\tabs\tab-btm-inactive-right-bg.gif
+wwwroot\resources\images\slate\tabs\tab-btm-left-bg.gif
+wwwroot\resources\images\slate\tabs\tab-btm-right-bg.gif
+wwwroot\resources\images\slate\tabs\tab-close.gif
+wwwroot\resources\images\slate\tabs\tabs-sprite.gif
+wwwroot\resources\images\slate\tabs\tab-strip-bg.gif
+wwwroot\resources\images\slate\tabs\tab-strip-btm-bg.gif
+wwwroot\resources\images\slate\toolbar\bg.gif
+wwwroot\resources\images\slate\toolbar\btn-arrow.gif
+wwwroot\resources\images\slate\toolbar\btn-over-bg.gif
+wwwroot\resources\images\slate\toolbar\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\toolbar\tb-btn-sprite.gif
+wwwroot\resources\images\slate\tree\arrows.gif
+wwwroot\resources\images\slate\tree\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\window\left-corners.png
+wwwroot\resources\images\slate\window\left-right.png
+wwwroot\resources\images\slate\window\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\slate\window\right-corners.png
+wwwroot\resources\images\slate\window\top-bottom.png
+wwwroot\resources\images\vista\basic-dialog\bg-center.gif
+wwwroot\resources\images\vista\basic-dialog\bg-left.gif
+wwwroot\resources\images\vista\basic-dialog\bg-right.gif
+wwwroot\resources\images\vista\basic-dialog\close.gif
+wwwroot\resources\images\vista\basic-dialog\collapse.gif
+wwwroot\resources\images\vista\basic-dialog\dlg-bg.gif
+wwwroot\resources\images\vista\basic-dialog\e-handle.gif
+wwwroot\resources\images\vista\basic-dialog\expand.gif
+wwwroot\resources\images\vista\basic-dialog\hd-sprite.gif
+wwwroot\resources\images\vista\basic-dialog\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\basic-dialog\se-handle.gif
+wwwroot\resources\images\vista\basic-dialog\s-handle.gif
+wwwroot\resources\images\vista\basic-dialog\w-handle.gif
+wwwroot\resources\images\vista\gradient-bg.gif
+wwwroot\resources\images\vista\grid\grid-split.gif
+wwwroot\resources\images\vista\grid\grid-vista-hd.gif
+wwwroot\resources\images\vista\grid\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\layout\collapse.gif
+wwwroot\resources\images\vista\layout\expand.gif
+wwwroot\resources\images\vista\layout\gradient-bg.gif
+wwwroot\resources\images\vista\layout\ns-collapse.gif
+wwwroot\resources\images\vista\layout\ns-expand.gif
+wwwroot\resources\images\vista\layout\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\layout\panel-close.gif
+wwwroot\resources\images\vista\layout\panel-title-bg.gif
+wwwroot\resources\images\vista\layout\panel-title-light-bg.gif
+wwwroot\resources\images\vista\layout\stick.gif
+wwwroot\resources\images\vista\layout\tab-close.gif
+wwwroot\resources\images\vista\layout\tab-close-on.gif
+wwwroot\resources\images\vista\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\qtip\bg.gif
+wwwroot\resources\images\vista\qtip\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\qtip\tip-sprite.gif
+wwwroot\resources\images\vista\s.gif
+wwwroot\resources\images\vista\sizer\e-handle.gif
+wwwroot\resources\images\vista\sizer\e-handle-dark.gif
+wwwroot\resources\images\vista\sizer\ne-handle.gif
+wwwroot\resources\images\vista\sizer\ne-handle-dark.gif
+wwwroot\resources\images\vista\sizer\nw-handle.gif
+wwwroot\resources\images\vista\sizer\nw-handle-dark.gif
+wwwroot\resources\images\vista\sizer\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\sizer\se-handle.gif
+wwwroot\resources\images\vista\sizer\se-handle-dark.gif
+wwwroot\resources\images\vista\sizer\s-handle.gif
+wwwroot\resources\images\vista\sizer\s-handle-dark.gif
+wwwroot\resources\images\vista\sizer\sw-handle.gif
+wwwroot\resources\images\vista\sizer\sw-handle-dark.gif
+wwwroot\resources\images\vista\tabs\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\tabs\tab-btm-inactive-left-bg.gif
+wwwroot\resources\images\vista\tabs\tab-btm-inactive-right-bg.gif
+wwwroot\resources\images\vista\tabs\tab-btm-left-bg.gif
+wwwroot\resources\images\vista\tabs\tab-btm-right-bg.gif
+wwwroot\resources\images\vista\tabs\tab-sprite.gif
+wwwroot\resources\images\vista\toolbar\gray-bg.gif
+wwwroot\resources\images\vista\toolbar\OneNote Table Of Contents.onetoc2
+wwwroot\resources\images\vista\toolbar\tb-btn-sprite.gif

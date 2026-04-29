@@ -1,0 +1,77 @@
+﻿        body
+        {
+            margin:0px;
+            padding:0px;
+        }
+        
+        img
+        {
+            border:0px;
+        }
+        
+        .imgheader
+        {
+            width:100%;
+            height:100px;
+            position:relative;
+            z-index:0;
+        }
+        
+        .logout
+        {
+            background:url('../image/imagesCA5GAD25.jpg');
+            width:57px;
+            height:12px;
+            display:block;
+        }
+        
+        #divinfo div span,#divinfo div a
+        {
+            float:right;
+            margin-left:5px;
+        }
+        
+        #divinfo div.time
+        {
+        	margin-top:5px;
+        }
+        
+        /* #divinfo div.time span
+        {
+        	padding-right:40px;
+        } */
+        
+        #divinfo div a
+        {
+            margin-top:4px;
+        }
+        
+        #divinfo div span
+        {
+            color:White;
+            font-weight:bold;
+        }
+        
+        #divinfo
+        {
+            position:absolute;
+            z-index:100;
+            width:300px;
+            left:75%;
+            margin-top:20px;
+        }
+        
+        .clear
+        {
+            clear:both;
+        }
+        
+        .space
+        {
+            width:90%;
+        }
+        
+        div#divinfo div.home a
+        {
+        	margin-left:20px;
+        }

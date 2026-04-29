@@ -1,0 +1,11 @@
+@page "/acc/PantryDisplay/Display_Mst"
+@model FLM_LobbyDisplay.Pages.acc.PantryDisplay.DisplayMstModel
+@{ ViewData["Title"] = "Signage Display"; }
+<h2>Digital Signage Display (Pantry)</h2>
+<hr />
+<table>
+    <tr>
+        <td><button onclick="window.open('@Url.Content("~/acc/PantryDisplay/pantry_mainDisplay")','_blank')" style="width:130px;height:50px;font-weight:bold;">Display 1</button></td>
+        <td><button onclick="window.open('@Url.Content("~/acc/PantryDisplay/pantry_2ndDisplay")','_blank')" style="width:130px;height:50px;font-weight:bold;">Display 2</button></td>
+    </tr>
+</table>

@@ -1,0 +1,13 @@
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\net8.0\Library.Root.deps.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\net8.0\Library.Root.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.vbproj.AssemblyReference.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.AssemblyInfoInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.AssemblyInfo.vb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.vbproj.CoreCompileInputs.cache
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.sourcelink.json
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\refint\Library.Root.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\Library.Root.pdb
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\bin\Debug\net8.0\Library.Root.dll
+C:\NET8 PROJECT\FLM_LobbyDisplay\Library\Library.Root\obj\Debug\net8.0\ref\Library.Root.dll

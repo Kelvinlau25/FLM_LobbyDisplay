@@ -1,0 +1,163 @@
+A
+{
+    COLOR: white;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    TEXT-DECORATION: none
+}
+A:visited
+{
+}
+BODY
+{
+    BACKGROUND-COLOR: white;
+    COLOR: black;
+    FONT: x-small Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD
+{
+    COLOR: #606060;
+    FONT-SIZE: xx-small;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+#button
+{
+    BACKGROUND-COLOR: silver;
+    BORDER-BOTTOM: silver 2px solid;
+    BORDER-LEFT: silver 2px solid;
+    BORDER-RIGHT: silver 2px solid;
+    BORDER-TOP: silver 2px solid;
+    FONT-SIZE: 0px;
+    WIDTH: 60px
+}
+#text
+{
+    BACKGROUND-COLOR: white;
+    BORDER-BOTTOM: #c0c0c0 1px solid;
+    BORDER-LEFT: #c0c0c0 1px solid;
+    BORDER-RIGHT: #c0c0c0 1px solid;
+    BORDER-TOP: #c0c0c0 1px solid
+}
+INPUT
+{
+    FONT-SIZE: 80%;
+    
+}
+SELECT
+{
+    BORDER-BOTTOM: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 80%;
+    WIDTH: 195px
+}
+TEXTAREA
+{
+    FONT-FAMILY: Arial, Verdana;
+    FONT-SIZE: 8pt;
+    TEXT-TRANSFORM: uppercase
+}
+TABLE#tblCoolbar
+{
+    BACKGROUND-COLOR: #6699cc;
+    BORDER-BOTTOM: buttonshadow 1px solid;
+    BORDER-LEFT: buttonhighlight 1px solid;
+    BORDER-RIGHT: buttonshadow 1px solid;
+    BORDER-TOP: buttonhighlight 1px solid;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 1px;
+    PADDING-RIGHT: 1px;
+    PADDING-TOP: 1px
+}
+TABLE#tblCoolbar TABLE
+{
+    BORDER-BOTTOM: buttonface 0px solid;
+    BORDER-LEFT: buttonface 0px solid;
+    BORDER-RIGHT: buttonface 0px solid;
+    BORDER-TOP: buttonface 0px solid;
+    CURSOR: hand;
+    FONT-FAMILY: tahoma;
+    FONT-SIZE: 70%;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px
+}
+TABLE#tblCoolbar1
+{
+    BACKGROUND-COLOR: #6699cc;
+    BORDER-BOTTOM: buttonshadow 1px solid;
+    BORDER-LEFT: buttonhighlight 1px solid;
+    BORDER-RIGHT: buttonshadow 1px solid;
+    BORDER-TOP: buttonhighlight 1px solid;
+    COLOR: #6699cc;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 1px;
+    PADDING-RIGHT: 1px;
+    PADDING-TOP: 1px
+}
+TABLE#tblCoolbar1 TABLE
+{
+    BORDER-BOTTOM: buttonface 1px solid;
+    BORDER-LEFT: buttonface 1px solid;
+    BORDER-RIGHT: buttonface 1px solid;
+    BORDER-TOP: buttonface 1px solid;
+    COLOR: #6699cc;
+    CURSOR: hand;
+    FONT-FAMILY: tahoma;
+    FONT-SIZE: 70%;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px
+}
+TD#tdCoolbar
+{
+    BACKGROUND-COLOR: #6699cc;
+    BORDER-BOTTOM: buttonshadow 1px solid;
+    BORDER-LEFT: buttonhighlight 1px solid;
+    BORDER-RIGHT: buttonshadow 1px solid;
+    BORDER-TOP: buttonhighlight 1px solid;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 1px;
+    PADDING-RIGHT: 1px;
+    PADDING-TOP: 1px
+}
+TD#tdCoolbar TD
+{
+    BORDER-BOTTOM: buttonface 0px solid;
+    BORDER-LEFT: buttonface 0px solid;
+    BORDER-RIGHT: buttonface 0px solid;
+    BORDER-TOP: buttonface 0px solid;
+    CURSOR: hand;
+    FONT-FAMILY: tahoma;
+    FONT-SIZE: 70%;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px
+}
+.tditem
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none
+}
+.linkdesc
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none
+}
